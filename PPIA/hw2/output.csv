@@ -1,0 +1,769 @@
+,Name,SSN,Age,Job,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Outcome
+0,Dott. Rosina Perozzo,LDBTTN88M10D144M,50,Operational researcher,6,148,72,35,0,33.6,0.627,1
+1,Graziella Franceschi,CMSGNG18A68A991V,31,"Engineer, technical sales",1,85,66,29,0,26.6,0.351,0
+2,Iolanda Zito,FOSTN13R23E566Q,32,Information officer,8,183,64,0,0,23.3,0.672,1
+3,Allegra Scaramucci,GRNLRZ69M54E588O,21,"Designer, industrial/product",1,89,66,23,94,28.1,0.167,0
+4,Viridiana Canetta-Saraceno,VRGLSN75M19B076I,33,Energy manager,0,137,40,35,168,43.1,2.288,1
+5,Beatrice Viviani,DNDPMP16R58I356S,30,"Production assistant, television",5,116,74,0,0,25.6,0.201,0
+6,Beatrice Paolini,MGHPRG77R44F187P,26,"Engineer, production",3,78,50,32,88,31.0,0.248,1
+7,Flora Scamarcio,PPTPRR34R48C952R,29,Radio producer,10,115,0,0,0,35.3,0.134,0
+8,Pina Nibali,CCRVRC22H10B890Y,53,"Psychologist, educational",2,197,70,45,543,30.5,0.158,1
+9,Melania Argenti-Gemito,DSCPSL39H51G651C,54,Haematologist,8,125,96,0,0,0.0,0.232,1
+10,Olga Alighieri-Rossellini,VSPRND28E62E945Q,30,Orthoptist,4,110,92,0,0,37.6,0.191,0
+11,Fabrizia Balbi,CCCGNI38T62H784X,34,Clinical molecular geneticist,10,168,74,0,0,38.0,0.537,1
+12,Matilda Andreozzi-Mortati,MGRSLO42H11L842G,57,Museum education officer,10,139,80,0,0,27.1,1.441,0
+13,Caterina Giunti,RMZBLS97E54L093P,59,Early years teacher,1,189,60,23,846,30.1,0.398,1
+14,Graziella Ammaniti,CDUGFR46D45H990H,51,IT sales professional,5,166,72,19,175,25.8,0.587,1
+15,Dina Cabibbo,GNNNNZ15B14E093M,32,Clinical cytogeneticist,7,100,0,0,0,30.0,0.484,1
+16,Livia Scaduto,NDRCRN52M55L720G,31,Chartered accountant,0,118,84,47,230,45.8,0.551,1
+17,Emma Guariento,NGLRSN76A20B553V,31,Intelligence analyst,7,107,74,0,0,29.6,0.254,1
+18,Giuliana Papetti-Foa,PNZRFL97E41E343N,33,"Psychotherapist, child",1,103,30,38,83,43.3,0.183,0
+19,Federica Prodi,CNDSTN55C66C957D,32,"Engineer, biomedical",1,115,70,30,96,34.6,0.529,1
+20,Bianca Tassoni,SDRFRC39R09H393J,27,Database administrator,3,126,88,41,235,39.3,0.704,0
+21,Lara Costalonga,MNTPRN23A52B780X,50,Systems developer,8,99,84,0,0,35.4,0.388,0
+22,Lara Peano,SNNMRL95T25C354Y,41,"Administrator, charities/voluntary organisations",7,196,90,0,0,39.8,0.451,1
+23,Teresa Filippini-Ciani,MJRRSL04R15G098H,29,Occupational psychologist,9,119,80,35,0,29.0,0.263,1
+24,Renata Caccioppoli,RGRLRN91H04H489R,51,"Scientist, audiological",11,143,94,33,146,36.6,0.254,1
+25,Diana Mondaini,NTTSNO14H09B462M,41,Chartered accountant,10,125,70,26,115,31.1,0.205,1
+26,Lara Spinelli-Barracco,PCLVLT56P03A523A,43,Hospital pharmacist,7,147,76,0,0,39.4,0.257,1
+27,Elisa Galiazzo,FRNGNN50C44I943E,22,"Nurse, adult",1,97,66,15,140,23.2,0.487,0
+28,Vanessa Filogamo,MSCGCT07P59B378M,57,Clothing/textile technologist,13,145,82,19,110,22.2,0.245,0
+29,Luisa Seddio,MLPBLD38C62D550P,38,"Journalist, broadcasting",5,117,92,0,0,34.1,0.337,0
+30,Daria Turchi,MMONDD98E03A489R,60,Camera operator,5,109,75,26,0,36.0,0.546,0
+31,Sig.ra Veronica Franscini,CMNLGU91P42I959Q,28,Local government officer,3,158,76,36,245,31.6,0.851,1
+32,Fabia Scandone,RSTPRC06H18E793Q,22,"Administrator, local government",3,88,58,11,54,24.8,0.267,0
+33,Germana Giolitti,ZMPTMT71R61H583F,28,Trade mark attorney,6,92,92,0,0,19.9,0.188,0
+34,Etta Emo,VSPCRL02D44D711S,45,Multimedia programmer,10,122,78,31,0,27.6,0.512,0
+35,Vittoria Rossi-Brenna,PSNMRA45E15D522R,33,Data scientist,4,103,60,33,192,24.0,0.966,0
+36,Mariana Fagiani,FLPLNI19E26D513V,35,"Designer, fashion/clothing",11,138,76,0,0,33.2,0.42,0
+37,Pina Modiano,TSONTN70R03E069R,46,Emergency planning/management officer,9,102,76,37,0,32.9,0.665,1
+38,Flavia Cilibrasi,SRDGSN11A47H423L,27,Air broker,2,90,68,42,0,38.2,0.503,1
+39,Livia Camanni,RDEFDL21T50A013A,56,Ranger/warden,4,111,72,47,207,37.1,1.39,1
+40,Annunziata Cadorna,RSSLMR67L53E812V,26,Health promotion specialist,3,180,64,25,70,34.0,0.271,0
+41,Cassandra Volterra,GNNCML19M59E544G,37,Soil scientist,7,133,84,0,0,40.2,0.696,0
+42,Annetta Balbo,PNNVNS41B08L713E,48,Clinical research associate,7,106,92,18,0,22.7,0.235,0
+43,Raffaella Navarria,BRNGLT27C11H602H,54,Field trials officer,9,171,110,24,240,45.4,0.721,1
+44,Patrizia Proietti,FNTLCN69H60G079W,40,Dancer,7,159,64,0,0,27.4,0.294,0
+45,Pierina Trevisan,SRCFRN53R15E980C,25,Information officer,0,180,66,39,0,42.0,1.893,1
+46,Tina Bosurgi,BMBPLM61M22G600C,29,"Scientist, marine",1,146,56,0,0,29.7,0.564,0
+47,Dott. Berenice Barracco,CMNGCN15B46H427Q,22,Health promotion specialist,2,71,70,27,0,28.0,0.586,0
+48,Luisa Raimondi,TMMZGL86A46E839F,31,Metallurgist,7,103,66,32,0,39.1,0.344,1
+49,Rosina Gilardoni,FBNNTN15H20M388P,24,Estate agent,7,105,0,0,0,0.0,0.305,0
+50,Silvia Pirandello,BRNMLE52M58D612I,22,Dispensing optician,1,103,80,11,82,19.4,0.491,0
+51,Maura Aulenti,NNSLLT43P13F268H,26,General practice doctor,1,101,50,15,36,24.2,0.526,0
+52,Camilla Albertini-Pausini,PRSCTN06R16B966F,30,Research scientist (medical),5,88,66,21,23,24.4,0.342,0
+53,Sig.ra Loretta Carnera,GNNLDC69R47A135H,58,Copy,8,176,90,34,300,33.7,0.467,1
+54,Dott. Matilda Sonnino,RCCMND16S02A118P,42,Patent attorney,7,150,66,42,342,34.7,0.718,0
+55,Dott. Fernanda Giannetti,BGLGCT18M66B410V,21,Statistician,1,73,50,10,0,23.0,0.248,0
+56,Isabella Mercadante,FGNMLA01T28F965H,41,Housing manager/officer,7,187,68,39,304,37.7,0.254,1
+57,Sig.ra Anita Mastandrea,MDGPLN50E22D321F,31,Financial planner,0,100,88,60,110,46.8,0.962,0
+58,Dott. Fortunata Fagiani,CCCPLA97B10B809Y,44,Physiotherapist,0,146,82,0,0,40.5,1.781,0
+59,Dott. Eliana Scarfoglio,TLRFBZ93P44D259H,22,Secretary/administrator,0,105,64,41,142,41.5,0.173,0
+60,Sig.ra Luisa Mantegna,RCCDIA59D12C426W,21,"Engineer, maintenance",2,84,0,0,0,0.0,0.304,0
+61,Monica Bellocchio,BSRGMM45L02G874W,39,Software engineer,8,133,72,0,0,32.9,0.27,1
+62,Adele Polesel,MNCDNL52B55A188A,36,Community arts worker,5,44,62,0,0,25.0,0.587,0
+63,Raffaella Sinisi,TRSRMN06E02E639Z,24,"Radiographer, diagnostic",2,141,58,34,128,25.4,0.699,0
+64,Dott. Lina Scaduto,PCCPRG11T53L973I,42,Metallurgist,7,114,66,0,0,32.8,0.258,1
+65,Sig.ra Ida Casellati,TRNTZN56H63F845O,32,Building services engineer,5,99,74,27,0,29.0,0.203,0
+66,Pina Bosurgi,PRPFBZ37S10L556V,38,Science writer,0,109,88,30,0,32.5,0.855,1
+67,Sig.ra Sonia Badoer,DNORFL40P56F573G,54,"Engineer, technical sales",2,109,92,0,0,42.7,0.845,0
+68,Michela Monteverdi,GLNVRC79M14D949Y,25,Financial controller,1,95,66,13,38,19.6,0.334,0
+69,Loredana Bernardini-Aloisio,VRCPLA18L55H010N,27,Purchasing manager,4,146,85,27,100,28.9,0.189,0
+70,Donatella Schiavone,RGNLBC70S66C223J,28,"Civil engineer, contracting",2,100,66,20,90,32.9,0.867,1
+71,Sig.ra Paulina Bernetti,BRZLBT16B65C176P,26,Field seismologist,5,139,64,35,140,28.6,0.411,0
+72,Daria Nordio,ZFFPCC72B67D117W,42,Health service manager,13,126,90,0,0,43.4,0.583,1
+73,Filippa Raurica-Amaldi,NCLGNL55B53L845K,23,Mining engineer,4,129,86,20,270,35.1,0.231,0
+74,Serena Ficino-Stefanelli,SRGBNC64H27A914X,22,"Producer, radio",1,79,75,30,0,32.0,0.396,0
+75,Flora Fantini,RMTVLT57D08A523Q,22,Senior tax professional/tax inspector,1,0,48,20,0,24.7,0.14,0
+76,Emma Gussoni-Monaco,PRZDNI52D56C282G,41,Geophysical data processor,7,62,78,0,0,32.6,0.391,0
+77,Evangelista Balla,SMNPNI40D07C986K,27,Medical illustrator,5,95,72,33,0,37.7,0.37,0
+78,Lucrezia Tomei,CRDMRL84H12G583K,26,Police officer,0,131,0,0,0,43.2,0.27,1
+79,Paloma Savorgnan,PSNCLL50C14F133X,24,Forensic scientist,2,112,66,22,0,25.0,0.307,0
+80,Serafina Sismondi,STRMLI54A68D341Q,22,Amenity horticulturist,3,113,44,13,0,22.4,0.14,0
+81,Antonina Bombieri,FOXGBL79E63L010B,22,Volunteer coordinator,2,74,0,0,0,0.0,0.102,0
+82,Cassandra Lucchesi,SCTBRR39R23M375W,36,Data processing manager,7,83,78,26,71,29.3,0.767,0
+83,Laura Soranzo,VSCRND01C67F587Q,22,Ecologist,0,101,65,28,0,24.6,0.237,0
+84,Stefani Coppola,VNRGBL47D27A308M,37,"Teacher, music",5,137,108,0,0,48.8,0.227,1
+85,Aria Spadafora,SCRPSL54L68L762P,27,Pensions consultant,2,110,74,29,125,32.4,0.698,0
+86,Dott. Aria Salvini,CNTRMI93R25G615B,45,"Engineer, broadcasting (operations)",13,106,72,54,0,36.6,0.178,0
+87,Elvira Mennea,MJRMBT79L61H835O,26,Amenity horticulturist,2,100,68,25,71,38.5,0.324,0
+88,Antonina Rosmini,VLTLVI29R16B369H,43,"Programmer, multimedia",15,136,70,32,110,37.1,0.153,1
+89,Romana Micheletti,BLTRNT56B57D107M,24,Technical author,1,107,68,19,0,26.5,0.165,0
+90,Fabia Filippini,MGNPPZ70T59B755Y,21,Music tutor,1,80,55,0,0,19.1,0.258,0
+91,Angelica Zichichi,PSQVTI95S53B582R,34,"Research officer, trade union",4,123,80,15,176,32.0,0.443,0
+92,Lina Telesio,MNLSLS82B64F250X,42,Musician,7,81,78,40,48,46.7,0.261,0
+93,Amalia Turati,LRNTNI93R19I962A,60,Sports coach,4,134,72,0,0,23.8,0.277,1
+94,Susanna Panzera,CGNFRC06D45A203L,21,Mudlogger,2,142,82,18,64,24.7,0.761,0
+95,Simonetta Giannini,CRDNTN25S43H522Z,40,"Therapist, art",6,144,72,27,228,33.9,0.255,0
+96,Silvia Sonnino,TTNBTN59P04D579D,24,Dancer,2,92,62,28,0,31.6,0.13,0
+97,Bettina Strangio,CBBPLT07H13M294I,22,Production engineer,1,71,48,18,76,20.4,0.323,0
+98,Lidia Badoer,FLTLVR43B07M292G,23,"Lighting technician, broadcasting/film/video",6,93,50,30,64,28.7,0.356,0
+99,Ramona Vendetti,GBRGCH30M68E931Q,31,Furniture conservator/restorer,1,122,90,51,220,49.7,0.325,1
+100,Alessandra Medici,DNRNTT94E01F220R,33,"Lecturer, higher education",1,163,72,0,0,39.0,1.222,1
+101,Renata Morgagni,GLTSBN51M43A097L,22,"Editor, magazine features",1,151,60,0,0,26.1,0.179,0
+102,Luigina Zanazzo,LTTLSE04A17I727C,21,Personal assistant,0,125,96,0,0,22.5,0.262,0
+103,Rita Giannone-Cagnotto,LMBGNR26M67A074Y,24,"Administrator, sports",1,81,72,18,40,26.6,0.283,0
+104,Bianca Federici,MLDCML19L56D012G,27,Tax inspector,2,85,65,0,0,39.6,0.93,0
+105,Iolanda Carullo,NNCNNS96C07I131T,21,Adult guidance worker,1,126,56,29,152,28.7,0.801,0
+106,Aria Carducci,RSNCLC42T41D279P,27,"Psychologist, clinical",1,96,122,0,0,22.4,0.207,0
+107,Elisa Gozzano,BRNRMN49E56G346I,37,Plant breeder/geneticist,4,144,58,28,140,29.5,0.287,0
+108,Ornella Trentin-Siffredi,MNTSLS86P62A773Z,25,"Restaurant manager, fast food",3,83,58,31,18,34.3,0.336,0
+109,Milena Vittadello-Staglieno,CLMGML91B58A698C,24,Health physicist,0,95,85,25,36,37.4,0.247,1
+110,Marta Tirabassi,SRETTN59B67B118U,24,"Nurse, adult",3,171,72,33,135,33.3,0.199,1
+111,Erika Lucciano-Ludovisi,BLLVRC73R21F527J,46,Landscape architect,8,155,62,26,495,34.0,0.543,1
+112,Victoria Nicoletti,RSTLDN37D61H665J,23,Control and instrumentation engineer,1,89,76,34,37,31.2,0.192,0
+113,Roberta Lattuada,MRTCRL73L44H612F,25,Haematologist,4,76,62,0,0,34.0,0.391,0
+114,Victoria Giolitti,PRTFRN33M05M003R,39,Housing manager/officer,7,160,54,32,175,30.5,0.588,1
+115,Graziella Anastasi,CFFGUO24S55C524U,61,Biomedical scientist,4,146,92,0,0,31.2,0.539,1
+116,Sig.ra Evangelista Armani,SCTFRC33H47G632Q,38,Health and safety inspector,5,124,74,0,0,34.0,0.22,1
+117,Lara Calbo,TRVMLN89S21C222W,25,Public house manager,5,78,48,0,0,33.7,0.654,0
+118,Aria Tiepolo,MDRGLR85P26B181F,22,Insurance risk surveyor,4,97,60,23,0,28.2,0.443,0
+119,Sig.ra Carla Schiavone,STNLLT65M16C652K,21,Stage manager,4,99,76,15,51,23.2,0.223,0
+120,Stella Schiavone-Castiglione,PTRDMN90P63H284A,25,Health and safety adviser,0,162,76,56,100,53.2,0.759,1
+121,Emma Poerio,SCNPMN13E60B005K,24,Investment analyst,6,111,64,39,0,34.2,0.26,0
+122,Marisa Bragadin,PNCGVN38E59H593G,23,Jewellery designer,2,107,74,30,100,33.6,0.404,0
+123,Serena Petrocelli,FLLNNI28L18B923H,69,Mechanical engineer,5,132,80,0,0,26.8,0.186,0
+124,Renata Ovadia,BLTMRN63R59D607P,23,"Engineer, broadcasting (operations)",0,113,76,0,0,33.3,0.278,1
+125,Annunziata Cendron,DNTRAI04P07F621D,26,Architectural technologist,1,88,30,42,99,55.0,0.496,1
+126,Annamaria Falier,BRNLME40B45A589I,30,Physiotherapist,3,120,70,30,135,42.9,0.452,0
+127,Caterina Badoer-Piazzi,BRGRMO53R54D290H,23,"Surveyor, building control",1,118,58,36,94,33.3,0.261,0
+128,Cristina Pertini-Mennea,BTGGLI14B53G953D,40,Arts development officer,1,117,88,24,145,34.5,0.403,1
+129,Griselda Marenzio-Carfagna,NNCSTL74M15E428M,62,Museum education officer,0,105,84,0,0,27.9,0.741,1
+130,Anita Botta-Manacorda,NVRLLL60C13F760C,33,Probation officer,4,173,70,14,168,29.7,0.361,1
+131,Isabella Armellini,SBLDNL63B62E422W,33,Pharmacologist,9,122,56,0,0,33.3,1.114,1
+132,Monica Naccari,GRNRMI62T16L109S,30,Risk analyst,3,170,64,37,225,34.5,0.356,1
+133,Erika Leonardi,FRNNTN79M67D691C,39,Chartered loss adjuster,8,84,74,31,0,38.3,0.457,0
+134,Sophia Draghi,LZUMRD25S01G011U,26,"Surveyor, insurance",2,96,68,13,49,21.1,0.647,0
+135,Isa Tamburi-Sollima,PTRLDC37A52B527E,31,Chartered management accountant,2,125,60,20,140,33.8,0.088,0
+136,Sig.ra Susanna Cadorna,CLVFMM85A02G974E,21,Film/video editor,0,100,70,26,50,30.8,0.597,0
+137,Dott. Letizia Pizzo,MZZRTR85H54E858I,22,"Engineer, biomedical",0,93,60,25,92,28.7,0.532,0
+138,Marisa Pisacane,TRRDRN49S27C331U,29,Horticultural consultant,0,129,80,0,0,31.2,0.703,0
+139,Stella Caruso,DNTLRT58P05C345F,28,"Scientist, physiological",5,105,72,29,325,36.9,0.159,0
+140,Licia Rastelli-Opizzi,GGGGCH02A45I947V,55,Bonds trader,3,128,78,0,0,21.1,0.268,0
+141,Lucia Tomasini,MSTRMN76S17B056R,38,"Administrator, education",5,106,82,30,0,39.5,0.286,0
+142,Aurora Alonzi,CNDPPZ25R48E655Q,22,"Doctor, general practice",2,108,52,26,63,32.5,0.318,0
+143,Rita Bernardi,PRDPRG59T64A955Q,42,Estate manager/land agent,10,108,66,0,0,32.4,0.272,1
+144,Carolina Lucciano-Petrucci,ZRLZRA30M20H072V,23,"Conservation officer, historic buildings",4,154,62,31,284,32.8,0.237,0
+145,Monica Brambilla,ZCHTTN30E42G019M,21,Armed forces technical officer,0,102,75,23,0,0.0,0.572,0
+146,Carla Zaccagnini,GRGNCL48L44B381W,41,IT consultant,9,57,80,37,0,32.8,0.096,0
+147,Dott. Maria Lamborghini,PLCSMT98T24C047W,34,Newspaper journalist,2,106,64,35,119,30.5,1.4,0
+148,Flora Manolesso,CRQGFR06L52D682M,65,"Education officer, environmental",5,147,78,0,0,33.7,0.218,0
+149,Isabella Palombi,BRGTLC80P64L284X,22,Drilling engineer,2,90,70,17,0,27.3,0.085,0
+150,Fabrizia Serao-Vezzali,MNTMDA00A56G166J,24,Radio broadcast assistant,1,136,74,50,204,37.4,0.399,0
+151,Rossana Borgia,PNNGSN95C65M347B,37,Musician,4,114,65,0,0,21.9,0.432,0
+152,Paola Parri,SRCGNR43M55H781B,42,"Biochemist, clinical",9,156,86,28,155,34.3,1.189,1
+153,Morena Gibilisco,PZZMLN68H21L616I,23,Office manager,1,153,82,42,485,40.6,0.687,0
+154,Sig.ra Caterina Santi,TRTDNI06C46L063C,43,Arts development officer,8,188,78,0,0,47.9,0.137,1
+155,Anita Mazzanti,GLZVLT44C09M182B,36,"Conservation officer, nature",7,152,88,44,0,50.0,0.337,1
+156,Patrizia Carullo,ZPPRSR07M27F123Q,21,"Designer, exhibition/display",2,99,52,15,94,24.6,0.637,0
+157,Viridiana Pisacane,PNNRZO01D61M055G,23,Jewellery designer,1,109,56,21,135,25.2,0.833,0
+158,Sig.ra Angelina Lollobrigida,GRTBNT06P47A514K,22,"Designer, television/film set",2,88,74,19,53,29.0,0.229,0
+159,Camilla Migliaccio,LCCLBC42H48D776N,47,Herpetologist,17,163,72,41,114,40.9,0.817,1
+160,Rosina Vecoli,FDRDNT79T57I129D,36,Artist,4,151,90,38,0,29.7,0.294,0
+161,Antonia Agostinelli,TZZSRS05M57D634A,45,"Doctor, general practice",7,102,74,40,105,37.2,0.204,0
+162,Allegra Tasso,LNZMRN65P08I927H,27,"Engineer, maintenance",0,114,80,34,285,44.2,0.167,0
+163,Concetta Ruggieri,SPRRSL72A10L192S,21,Management consultant,2,100,64,23,0,29.7,0.368,0
+164,Monica Crispi,FRNPRD59D66C628I,32,Television/film/video producer,0,131,88,0,0,31.6,0.743,1
+165,Antonina Cuda,VSNGNE92C08D867O,41,Network engineer,6,104,74,18,156,29.9,0.722,1
+166,Marissa Raurica,VSNRMD52A43H913T,22,Catering manager,3,148,66,25,0,32.5,0.256,0
+167,Sig.ra Marta Accardo,STPNDA29H05E365Y,34,Data scientist,4,120,68,0,0,29.6,0.709,0
+168,Lina Abatantuono,GSSLGN45T02E786F,29,"Producer, television/film/video",4,110,66,0,0,31.9,0.471,0
+169,Francesca Gianetti,FVTMLA15T24E435T,29,Chief Marketing Officer,3,111,90,12,78,28.4,0.495,0
+170,Lina Gelli,CMMGGL87C68D994J,36,Mining engineer,6,102,82,0,0,30.8,0.18,1
+171,Filippa Vergerio,LFRRMS00T56M197N,29,"Psychologist, counselling",6,134,70,23,130,35.4,0.542,1
+172,Fortunata Natta-Vergerio,SCLNNS68A24I056D,25,Water quality scientist,2,87,0,23,0,28.9,0.773,0
+173,Francesca Pininfarina,BMBLCN33A05I876K,23,Plant breeder/geneticist,1,79,60,42,48,43.5,0.678,0
+174,Sig.ra Paoletta Antonacci,PRLGSP87T22E914J,33,"Engineer, water",2,75,64,24,55,29.7,0.37,0
+175,Camilla Bellucci,LLLLCN23M59E836L,36,"Programme researcher, broadcasting/film/video",8,179,72,42,130,32.7,0.719,1
+176,Paulina Balbo-Grifeo,PNINTL29A44G665L,42,Diagnostic radiographer,6,85,78,0,0,31.2,0.382,0
+177,Rosa Necci,BRSMCL22C49B166M,26,Multimedia programmer,0,129,110,46,130,67.1,0.319,1
+178,Angelina Treves,MDRNNZ18L24A010J,47,Sales promotion account executive,5,143,78,0,0,45.0,0.19,0
+179,Sig.ra Loretta Casale,MEOLSN31S10E156L,37,Clothing/textile technologist,5,130,82,0,0,39.1,0.956,1
+180,Stefania Tozzo,BLLFBA83H19G335G,32,Planning and development surveyor,6,87,80,0,0,23.2,0.084,0
+181,Imelda Ubaldi,MRNVNS67A07H187E,23,Tour manager,0,119,64,18,92,34.9,0.725,0
+182,Germana Rosiello-Gabba,DNLTNF42R50A330A,21,Chief Executive Officer,1,0,74,20,23,27.7,0.299,0
+183,Laura Galiazzo,GTALLT99R25G257Z,27,"Production designer, theatre/television/film",5,73,60,0,0,26.8,0.268,0
+184,Mariana Lettiere,BTARSL61C25E635B,40,Forest/woodland manager,4,141,74,0,0,27.6,0.244,0
+185,Elisa Pratesi-Tresoldi,VNVGRG70C20G015V,41,Garment/textile technologist,7,194,68,28,0,35.9,0.745,1
+186,Dott. Luisa Pepe,MNTNNS78P19G769O,60,"Psychologist, educational",8,181,68,36,495,30.1,0.615,1
+187,Marina Cheda,CNVGRN12D59M032H,33,"Solicitor, Scotland",1,128,98,41,58,32.0,1.321,1
+188,Sole Beffa-Nibali,FRNRCT57D48H914X,31,"Engineer, aeronautical",8,109,76,39,114,27.9,0.64,1
+189,Giovanna Leone-Samele,PNZVIO43L66B650W,25,Chiropractor,5,139,80,35,160,31.6,0.361,1
+190,Sandra Letta,CLIBRC93L10D734E,21,Health and safety inspector,3,111,62,0,0,22.6,0.142,0
+191,Valeria Turci,FRNMRS00P15F891J,40,"Accountant, chartered public finance",9,123,70,44,94,33.1,0.374,0
+192,Maria Camicione,CCCSTN37T17H104P,36,Naval architect,7,159,66,0,0,30.4,0.383,1
+193,Amalia Coardi,FBBGRC57D61M414Q,40,Fitness centre manager,11,135,0,0,0,52.3,0.578,1
+194,Raffaella Sonnino,LRUNNN21P67I056O,42,Ambulance person,8,85,55,20,0,24.4,0.136,0
+195,Annalisa Tremonti,JVRDNL06B60I530T,29,Education administrator,5,158,84,41,210,39.4,0.395,1
+196,Emma Gentileschi-Cusano,CPCGLS48B45I026J,21,"Surveyor, insurance",1,105,58,0,0,24.3,0.187,0
+197,Angelica Rossetti,MLTBCC73B42D607L,23,"Designer, exhibition/display",3,107,62,13,48,22.9,0.678,1
+198,Irma Dossetti,CSGMRN57R08H979S,26,"Scientist, research (maths)",4,109,64,44,99,34.8,0.905,1
+199,Caterina Garobbio,BRCLRN59E65C751Y,29,Forensic psychologist,4,148,60,27,318,30.9,0.15,1
+200,Marissa Armellini,CFRRMI98R23I869F,21,"Scientist, biomedical",0,113,80,16,0,31.0,0.874,0
+201,Licia Monti,TRNDRT59E42E273O,28,Learning disability nurse,1,138,82,0,0,40.1,0.236,0
+202,Caterina Cafarchia-Bianchi,GTTPLA31A11D680A,32,Industrial buyer,0,108,68,20,0,27.3,0.787,0
+203,Ilaria Buonauro,TRTCLD79C04D629F,27,Social researcher,2,99,70,16,44,20.4,0.235,0
+204,Melania Bertoni,SCRFRC97C27M032G,55,Clinical molecular geneticist,6,103,72,32,190,37.7,0.324,0
+205,Dott. Eleanora Cheda,BRGLDI83E02B385T,27,Publishing rights manager,5,111,72,28,0,23.9,0.407,0
+206,Viridiana Proietti,DNSVRN19E14C375B,57,Higher education lecturer,8,196,76,29,280,37.5,0.605,1
+207,Donatella Carpaccio-Venditti,VNDSBL35T25F972I,52,"Biochemist, clinical",5,162,104,0,0,37.7,0.151,1
+208,Lucrezia Argento,FCNRCC69R56A539S,21,"Programmer, multimedia",1,96,64,27,87,33.2,0.289,0
+209,Alessandra Taccola,FLRRSR14P21E587Z,41,"Civil engineer, consulting",7,184,84,33,0,35.5,0.355,1
+210,Ida Petralli,NGLPTR40S68F783D,25,Warehouse manager,2,81,60,22,0,27.7,0.29,0
+211,Lucrezia Tasso,MRNRCT57L45I754U,24,Ergonomist,0,147,85,54,0,42.8,0.375,0
+212,Renata Morpurgo,BRRRMN21D56A749S,60,Bonds trader,7,179,95,31,0,34.2,0.164,0
+213,Ida Pellegrini-Cantimori,PZZVRC19S26E705Y,24,Chemical engineer,0,140,65,26,130,42.6,0.431,1
+214,Viridiana Mozart,GRNZGL23D59C227O,36,Printmaker,9,112,82,32,175,34.2,0.26,1
+215,Lauretta Gangemi,BGLGNT46D59F258H,38,Financial manager,12,151,70,40,271,41.8,0.742,1
+216,Amalia Sanudo,DLDSIA89D12D575J,25,Visual merchandiser,5,109,62,41,129,35.8,0.514,1
+217,Teresa Sagnelli,LSSNTN62S17F687K,32,Trade union research officer,6,125,68,30,120,30.0,0.464,0
+218,Silvia Asmundo,BGGMLI78C65B001S,32,Occupational psychologist,5,85,74,22,0,29.0,1.224,1
+219,Priscilla Zola-Zoppetto,JLLRNR89T68M388V,41,Astronomer,5,112,66,0,0,37.8,0.261,1
+220,Bianca Mazzacurati,MRRNNT36R22E836I,21,"Engineer, water",0,177,60,29,478,34.6,1.072,1
+221,Imelda Berlusconi-Cabrini,VDNGSN57H46B405N,66,Magazine journalist,2,158,90,0,0,31.6,0.805,1
+222,Maria Luzi,MNTCSN58M08D490W,37,Games developer,7,119,0,0,0,25.2,0.209,0
+223,Sig.ra Aria Piacentini,BRLGLR96D52I174M,61,"Teacher, English as a foreign language",7,142,60,33,190,28.8,0.687,0
+224,Luigina Florio,TRTGNL94M46L291N,26,"Engineer, maintenance",1,100,66,15,56,23.6,0.666,0
+225,Sig.ra Annunziata Metella,NCLCRL21C47I120M,22,Farm manager,1,87,78,27,32,34.6,0.101,0
+226,Melina Columbo,MCHBLS45C57C115N,26,Meteorologist,0,101,76,0,0,35.7,0.198,0
+227,Evangelista Loredan,RSSRLD32M63D856O,24,Sport and exercise psychologist,3,162,52,38,0,37.2,0.652,1
+228,Sig.ra Romana Ricciardi,CPPCRN99L68G426H,31,"Journalist, newspaper",4,197,70,39,744,36.7,2.329,0
+229,Ludovica Tamburi,PCAVNI41S68I881H,24,"Engineer, control and instrumentation",0,117,80,31,53,45.2,0.089,0
+230,Donatella Torricelli,SNGBLD35T48F383U,22,Office manager,4,142,86,0,0,44.0,0.645,1
+231,Fabia Casarin,CLLNNZ30M18L613B,46,Geophysicist/field seismologist,6,134,80,37,370,46.2,0.238,1
+232,Lucrezia Almagià,MMNSTL81M19G555I,22,Set designer,1,79,80,25,37,25.4,0.583,0
+233,Camilla Basso,RFFCRT36P09H821Q,29,Probation officer,4,122,68,0,0,35.0,0.394,0
+234,Victoria Tamburini,CNCFDL78L55F648G,23,Fish farm manager,3,74,68,28,45,29.7,0.293,0
+235,Matilda Comisso,BLDLLT14S25G902L,26,Government social research officer,4,171,72,0,0,43.6,0.479,1
+236,Rosaria Antonelli,CBCNNZ54S15B519S,51,Retail banker,7,181,84,21,192,35.9,0.586,1
+237,Sylvia Brambilla,SCRGLI07A56E072I,23,Barista,0,179,90,27,0,44.1,0.686,1
+238,Antonia Vanvitelli,LNRLGN79C04G224W,32,Lobbyist,9,164,84,21,0,30.8,0.831,1
+239,Alina Zacchia,FSCLBC64T67C897W,27,Occupational therapist,0,104,76,0,0,18.4,0.582,0
+240,Giada Maderna,TMBGSN50H54E509J,21,"Teacher, primary school",1,91,64,24,0,29.2,0.192,0
+241,Vincenza Ziani-Juvara,BRMMME21H08G690M,22,Biomedical scientist,4,91,70,32,88,33.1,0.446,0
+242,Rosina Pagnotto-Manzoni,PNZMLT67A50G198H,22,Dramatherapist,3,139,54,0,0,25.6,0.402,1
+243,Silvia Lucarelli-Infantino,CMNNNL26B49G973C,33,Politician's assistant,6,119,50,22,176,27.1,1.318,1
+244,Zaira Ficino,SRDMRA29B19I494X,29,"Research officer, political party",2,146,76,35,194,38.2,0.329,0
+245,Daria Galiazzo,ZMRNNE65T66E491B,49,Patent examiner,9,184,85,15,0,30.0,1.213,1
+246,Nedda Ruffini,MRLMCL91E59L723F,41,Electronics engineer,10,122,68,0,0,31.2,0.258,0
+247,Luigina Agostini,NCCSIA36C14A618X,23,Ecologist,0,165,90,33,680,52.3,0.427,0
+248,Giuseppina Vecoli-Bellocchio,SPDRBT76T50E259S,34,Customer service manager,9,124,70,33,402,35.4,0.282,0
+249,Stella Maderna,BTTLSU49S27C984J,23,"Designer, furniture",1,111,86,19,0,30.1,0.143,0
+250,Dina Notarbartolo,DGLCRL65T05D824O,42,"Engineer, petroleum",9,106,52,0,0,31.2,0.38,0
+251,Clelia Corcos,NVIGFR09A42L434S,27,Physiotherapist,2,129,84,0,0,28.0,0.284,0
+252,Gianna Cesaroni,DLBLCN65D01D694G,24,Learning mentor,2,90,80,14,55,24.4,0.249,0
+253,Irma Contrafatto,MCCMTD54B26C155E,25,"Merchandiser, retail",0,86,68,32,0,35.8,0.238,0
+254,Cristina Parmitano,VLIBRL71S66C329N,44,Clinical molecular geneticist,12,92,62,7,258,27.6,0.926,1
+255,Victoria Lombardi,TSCDLS19S21F864U,21,Solicitor,1,113,64,35,0,33.6,0.543,1
+256,Renata Gasperi,GRZRGR37L56B740J,30,Neurosurgeon,3,111,56,39,0,30.1,0.557,0
+257,Gabriella Spinola,NNLDLS10D03C730V,25,Forensic psychologist,2,114,68,22,0,28.7,0.092,0
+258,Antonina Gargallo-Lucarelli,BRTNTL70R28B099R,24,Ambulance person,1,193,50,16,375,25.9,0.655,0
+259,Michela Contarini,TSCBTC60T12L124H,51,Glass blower/designer,11,155,76,28,150,33.3,1.353,1
+260,Rosa Acerbi,MRLRCC81S61H284A,34,"Clinical scientist, histocompatibility and immunogenetics",3,191,68,15,130,30.9,0.299,0
+261,Laura Piccio,CRSGTN25E48C321Q,27,Clinical molecular geneticist,3,141,0,0,0,30.0,0.761,1
+262,Cassandra Caboto,PSTDNI96R08I732X,24,Aid worker,4,95,70,32,0,32.1,0.612,0
+263,Serafina Canali-Armellini,VNVLME45B56D348D,63,Horticultural consultant,3,142,80,15,0,32.4,0.2,0
+264,Claudia Tozzi,GLTNGN21A27C407F,35,Quantity surveyor,4,123,62,0,0,32.0,0.226,1
+265,Alessia Delle,BCLLND84T24B857A,43,Physiotherapist,5,96,74,18,67,33.6,0.997,0
+266,Carolina Veneziano-Mazzini,PSSNTL10T19A660Z,25,Film/video editor,0,138,0,0,0,36.3,0.933,1
+267,Nedda Pedroni,NGLRML98A61F808Z,24,"Lecturer, further education",2,128,64,42,0,40.0,1.101,0
+268,Irma Condoleo,BRGFDG29E54F852R,21,Chief Marketing Officer,0,102,52,0,0,25.1,0.078,0
+269,Priscilla Grasso,SGLDRD38P67E239G,28,Immunologist,2,146,0,0,0,27.5,0.24,1
+270,Bettina Raurica,CLGNNS12C07M349U,38,Immunologist,10,101,86,37,0,45.6,1.136,1
+271,Gabriella Comboni,PROLNA73D05G336D,21,"Administrator, sports",2,108,62,32,56,25.2,0.128,0
+272,Eugenia Letta,TRPLBT72B45F221I,40,Advertising art director,3,122,78,0,0,23.0,0.254,0
+273,Nadia Aporti,TRMGSR13M55G523V,21,Psychotherapist,1,71,78,50,45,33.2,0.422,0
+274,Clelia Gangemi,NPLLSN61A20D494V,52,Banker,13,106,70,0,0,34.2,0.251,0
+275,Marisa Chindamo,GDNRFL63R60F847B,25,"Producer, radio",2,100,70,52,57,40.5,0.677,0
+276,Melina Baresi,SCRSNT07C63B883K,29,Local government officer,7,106,60,24,0,26.5,0.296,1
+277,Lina Boiardo,ZMPRNT12L53F620F,23,"Psychotherapist, dance movement",0,104,64,23,116,27.8,0.454,0
+278,Marina Vespa,BRNGNN95E22C639D,57,Clothing/textile technologist,5,114,74,0,0,24.9,0.744,0
+279,Patrizia Pertile,DSSCLD33D09I830L,22,English as a second language teacher,2,108,62,10,278,25.3,0.881,0
+280,Adelasia Fieramosca-Palazzo,SCTGNT22L51H938J,28,Art therapist,0,146,70,0,0,37.9,0.334,1
+281,Barbara Morandi,MRLRSN24R17A186J,39,"Scientist, research (maths)",10,129,76,28,122,35.9,0.28,0
+282,Bettina Santorio-Matteotti,BRTNTT46P28A618V,37,Medical secretary,7,133,88,15,155,32.4,0.262,0
+283,Dott. Liana Agazzi,MRNVNN25A17D760J,47,Television floor manager,7,161,86,0,0,30.4,0.165,1
+284,Giorgia Gargallo,GRDLRI64P14G593D,52,Television floor manager,2,108,80,0,0,27.0,0.259,1
+285,Bettina Ruggieri,MNCMLI62T52M363D,51,Marketing executive,7,136,74,26,135,26.0,0.647,0
+286,Veronica Morrocco,BGTZRA03D24G954M,34,Dramatherapist,5,155,84,44,545,38.7,0.619,0
+287,Adelasia Poerio,MLDMLN01R21C634C,29,Drilling engineer,1,119,86,39,220,45.6,0.808,1
+288,Liana Binaghi,LCCLGO90M26G909Z,26,Museum/gallery conservator,4,96,56,17,49,20.8,0.34,0
+289,Pierina Barillaro-Chigi,LGHLRA98S02H775G,33,Pension scheme manager,5,108,72,43,75,36.1,0.263,0
+290,Gianna Nievo,PRTCPN31P64H858Y,21,Research scientist (maths),0,78,88,29,40,36.9,0.434,0
+291,Diana Bianchini-Barese,TRMRNL81S05L577I,25,Garment/textile technologist,0,107,62,30,74,36.6,0.757,1
+292,Dina Caironi,BBGGRN65D51I316C,31,Drilling engineer,2,128,78,37,182,43.3,1.224,1
+293,Romina Pigafetta,DLLLNI18T13H068U,24,Aeronautical engineer,1,128,48,45,194,40.5,0.613,1
+294,Stefania Rastelli,SQRLRA67M21L454B,65,"Copywriter, advertising",0,161,50,0,0,21.9,0.254,0
+295,Rosina Morgagni,GGLFRC62P64L321R,28,Chartered legal executive (England and Wales),6,151,62,31,120,35.5,0.692,0
+296,Aria Coppola,NTRPRL11A67F721A,29,Network engineer,2,146,70,38,360,28.0,0.337,1
+297,Filippa Rosmini,CPNVLT87M19H325X,24,Probation officer,0,126,84,29,215,30.7,0.52,0
+298,Griselda Crespi,RGNGCB16R66L022W,46,Energy manager,14,100,78,25,184,36.6,0.412,1
+299,Stella Pausini,RSPRNT16D65M375A,58,Telecommunications researcher,8,112,72,0,0,23.6,0.84,0
+300,Giuseppina Impastato-Panatta,MCHCRL15T62B729Z,30,Research scientist (maths),0,167,0,0,0,32.3,0.839,1
+301,Sig.ra Donatella Garibaldi,TRPLLR73P26D287J,25,Chief Strategy Officer,2,144,58,33,135,31.6,0.422,1
+302,Licia Casarin,LFNSMT16B25A485F,35,Herbalist,5,77,82,41,42,35.8,0.156,0
+303,Nicoletta Luria,RSSVNS31C26F113K,28,"Administrator, sports",5,115,98,0,0,52.9,0.209,1
+304,Germana Salvini,SBBDRN56D18C699A,37,Clothing/textile technologist,3,150,76,0,0,21.0,0.207,0
+305,Maria Cuda,MRTLRT32L13C512Z,29,Hydrogeologist,2,120,76,37,105,39.7,0.215,0
+306,Flora Pacetti,GGLGNC61S64H077Y,47,Sales promotion account executive,10,161,68,23,132,25.5,0.326,1
+307,Sig.ra Simonetta Impastato,TRPVEA56B11B227F,21,"Buyer, retail",0,137,68,14,148,24.8,0.143,0
+308,Pierina Gottardi,CVLHGU53R68C503N,25,Production engineer,0,128,68,19,180,30.5,1.391,1
+309,Adriana Rizzo,SRMLZR62C52I799D,30,Investment analyst,2,124,68,28,205,32.9,0.875,1
+310,Berenice Travaglia,GNSDRN73D22F313O,41,Youth worker,6,80,66,30,0,26.2,0.313,0
+311,Eleanora Foconi,VLMRMN51E13A742O,22,Land,0,106,70,37,148,39.4,0.605,0
+312,Carla Manunta,PCCGRL56R14G275Z,27,Sub,2,155,74,17,96,26.6,0.433,1
+313,Gemma Parpinel,FTTBRC78S27D984Y,25,Proofreader,3,113,50,10,85,29.5,0.626,0
+314,Gemma Piovani-Ritacca,DBSLRN23L07E837U,43,Biomedical engineer,7,109,80,31,0,35.9,1.127,1
+315,Monica Garzoni,CDRBTC46B25M189A,26,Accounting technician,2,112,68,22,94,34.1,0.315,0
+316,Bianca Gentileschi-Fo,BLDMLA90P07G264X,30,"Lecturer, further education",3,99,80,11,64,19.3,0.284,0
+317,Dott. Rosina Visconti,SSLMRN28B05G947L,29,Social worker,3,182,74,0,0,30.5,0.345,1
+318,Sole Guidone,RNDLRA26S12I704G,28,Animator,3,115,66,39,140,38.1,0.15,0
+319,Dott. Lina Monti,MRTGSN04P63A798Q,59,Community pharmacist,6,194,78,0,0,23.5,0.129,1
+320,Sig.ra Marisa Bocelli,VVNGNN74T58E145O,31,"Teacher, primary school",4,129,60,12,231,27.5,0.527,0
+321,Luigina Malpighi,NTRNNT07T20H929T,25,"Conservator, museum/gallery",3,112,74,30,0,31.6,0.197,1
+322,Angelina Zacco,CPLGVN71E04H427U,36,Chief Operating Officer,0,124,70,20,0,27.4,0.254,1
+323,Daria Polizzi,CNCGVN35P18F727Y,43,Radiation protection practitioner,13,152,90,33,29,26.8,0.731,1
+324,Silvia Ramazzotti,PGLFBA39L27L883Y,21,IT trainer,2,112,75,32,0,35.7,0.148,0
+325,Sig.ra Victoria Carullo,VDNGNT26B41L202K,24,"Development worker, community",1,157,72,21,168,25.6,0.123,0
+326,Michela Ravaglioli,PRNDNT01H55A647Z,30,Games developer,1,122,64,32,156,35.1,0.692,1
+327,Sonia Schiavone,GCCMDA75L55I256O,37,Museum/gallery exhibitions officer,10,179,70,0,0,35.1,0.2,0
+328,Giuseppina Turrini,DRSMRL38S21H101Z,23,Archaeologist,2,102,86,36,120,45.5,0.127,1
+329,Romina Gabba-Leone,SGSVNL57H01D465U,37,"Therapist, horticultural",6,105,70,32,68,30.8,0.122,0
+330,Gabriella Costalonga,NGLLBC68A53I937Y,46,Farm manager,8,118,72,19,0,23.1,1.476,0
+331,Bianca Piazzi,CBBVRL48R44A629S,25,Veterinary surgeon,2,87,58,16,52,32.7,0.166,0
+332,Nina Bompiani,SLVGML63B55G628Q,41,Garment/textile technologist,1,180,0,0,0,43.3,0.282,1
+333,Melania Righi-Poerio,PRTRZO79H51F146E,44,"Clinical scientist, histocompatibility and immunogenetics",12,106,80,0,0,23.6,0.137,0
+334,Paola Tamburini,GRRCRD11A62A621F,22,Arts administrator,1,95,60,18,58,23.9,0.26,0
+335,Bianca Tartini,BSDLDC01R43I034J,26,Public relations officer,0,165,76,43,255,47.9,0.259,0
+336,Irma Iacobucci,SNNBNT39A53H498C,44,Sales executive,0,117,0,0,0,33.8,0.932,0
+337,Sig.ra Isabella Simeoni,DRGDRN34S26D537J,44,"Surveyor, rural practice",5,115,76,0,0,31.2,0.343,1
+338,Elena Battelli-Littizzetto,MTATLC69M61H130S,33,Amenity horticulturist,9,152,78,34,171,34.2,0.893,1
+339,Sylvia Nitto-Ferraris,MRTVNN76H26L123Y,41,"Administrator, sports",7,178,84,0,0,39.9,0.331,1
+340,Sophia Cilibrasi,FGNSTN82T14G102K,22,Conference centre manager,1,130,70,13,105,25.9,0.472,0
+341,Donna Frescobaldi,MNTTNN42P62E632T,36,Seismic interpreter,1,95,74,21,73,25.9,0.673,0
+342,Fabia Fattori,LNTFDC57L27E126F,22,Sports development officer,1,0,68,35,0,32.0,0.389,0
+343,Dott. Federica Zola,MRCBTC68S25A810Y,33,Geographical information systems officer,5,122,86,0,0,34.7,0.29,0
+344,Cristina Bevilacqua,MNLMRL72E60B126P,57,Musician,8,95,72,0,0,36.8,0.485,0
+345,Stella Taliercio-Segrè,GNTRFL76D45B506D,49,"Engineer, materials",8,126,88,36,108,38.5,0.349,0
+346,Erika Canova-Ferrara,PPFTRT86A61E040P,22,"Scientist, clinical (histocompatibility and immunogenetics)",1,139,46,19,83,28.7,0.654,0
+347,Dott. Antonina Caffarelli,TRVFDC25R48D925F,23,Immigration officer,3,116,0,0,0,23.5,0.187,0
+348,Sig.ra Sole Fermi,GDTPRG58D48E518T,26,Herbalist,3,99,62,19,74,21.8,0.279,0
+349,Beatrice Foletti,CSRNNT39S26E788U,37,Advice worker,5,0,80,32,0,41.0,0.346,1
+350,Giulia Panatta-Biagiotti,MRCCHR77T16C819R,29,Sport and exercise psychologist,4,92,80,0,0,42.2,0.237,0
+351,Dott. Tonia Tafuri,DNZNNL82E60C595F,30,"Librarian, public",4,137,84,0,0,31.2,0.252,0
+352,Dott. Iolanda Coardi,BBGGDU70D63F144A,46,Sports administrator,3,61,82,28,0,34.4,0.243,0
+353,Zaira Mazzeo,BNGLDI38H13L177Z,24,Quality manager,1,90,62,12,43,27.2,0.58,0
+354,Eva Serao,MLNVRL45M51E264U,21,Community education officer,3,90,78,0,0,42.7,0.559,0
+355,Loredana Bosio,GTTFDC36C23B580I,49,Electrical engineer,9,165,88,0,0,30.4,0.302,1
+356,Renata Cilea-Ferrara,GNNVEA03A26D374W,28,Insurance account manager,1,125,50,40,167,33.3,0.962,1
+357,Isa Trebbi,MGHLVI19R62L278K,44,Scientific laboratory technician,13,129,0,30,0,39.9,0.569,1
+358,Sig.ra Adelasia Saraceno,CLBNNZ77T02A463J,48,Call centre manager,12,88,74,40,54,35.3,0.378,0
+359,Valeria Mozart,BGTGMM83A07C757H,29,Government social research officer,1,196,76,36,249,36.5,0.875,1
+360,Sig.ra Monica Mercalli,SPSLSN95C59D835O,29,"Geneticist, molecular",5,189,64,33,325,31.2,0.583,1
+361,Tiziana Necci-Caironi,MLPLND17T09B527L,63,Special effects artist,5,158,70,0,0,29.8,0.207,0
+362,Daria Zito,MLNFRN78C02I778F,65,Television/film/video producer,5,103,108,37,0,39.2,0.305,0
+363,Lolita Polesel,BSSLLT18A03F136Z,67,Technical brewer,4,146,78,0,0,38.5,0.52,1
+364,Antonia Tencalla,BRNMTD70H25F219R,30,IT sales professional,4,147,74,25,293,34.9,0.385,0
+365,Valentina Pucci,GBBPMN90C62B427Y,30,"Sales professional, IT",5,99,54,28,83,34.0,0.499,0
+366,Dott. Elisa Ortese,SVRJCP40M54E649Z,29,Database administrator,6,124,72,0,0,27.6,0.368,1
+367,Loredana Silvestri,TGLVRN54H03L165H,21,Technical sales engineer,0,101,64,17,0,21.0,0.252,0
+368,Maria Satriani,SCHRMD44B61H140W,22,Public relations officer,3,81,86,16,66,27.5,0.306,0
+369,Annamaria Argentero,NGNPTZ15P24C329V,45,Ambulance person,1,133,102,28,140,32.8,0.234,1
+370,Francesca Fanucci-Cilea,LRNSRS96C54I551B,25,Health and safety inspector,3,173,82,48,465,38.4,2.137,1
+371,Gabriella Rosmini,NGLPRN99A50H858X,21,Financial risk analyst,0,118,64,23,89,0.0,1.731,0
+372,Adele Beccheria,PSRRST77L64I088A,21,Field trials officer,0,84,64,22,66,35.8,0.545,0
+373,Lucrezia Bertolucci,PTRLBT79A55B537J,25,Technical brewer,2,105,58,40,94,34.9,0.225,0
+374,Carolina Interiano,RMNGNE58A11D869M,28,IT consultant,2,122,52,43,158,36.2,0.816,0
+375,Marina Mantegna,DSDTTN18B04D318V,58,Biomedical scientist,12,140,82,43,325,39.2,0.528,1
+376,Greca Vendetti,TRVLSU09S10B829V,22,"Therapist, sports",0,98,82,15,84,25.2,0.299,0
+377,Melina Gargallo-Scialpi,RNLMLE50R51H781Z,22,Land,1,87,60,37,75,37.2,0.509,0
+378,Erika Parisi,FOSTN19A06D828F,32,Dispensing optician,4,156,75,0,0,48.3,0.238,1
+379,Elena Pertini,NTNNGN86C10L470E,35,Medical laboratory scientific officer,0,93,100,39,72,43.4,1.021,0
+380,Sig.ra Paulina Pezzali,PTRLRT05T01M158U,24,Medical sales representative,1,107,72,30,82,30.8,0.821,0
+381,Angelina Prodi,LGNSLT35R54B203O,22,"Education officer, community",0,105,68,22,0,20.0,0.236,0
+382,Renata Guglielmi,SMNRLD87C46G773Z,21,Dramatherapist,1,109,60,8,182,25.4,0.947,0
+383,Giorgia Ossola,TNCVLR56M66E266G,25,"Engineer, building services",1,90,62,18,59,25.1,1.268,0
+384,Antonia Moretti,PDRLNR08L20B057Y,25,Senior tax professional/tax inspector,1,125,70,24,110,24.3,0.221,0
+385,Adriana Vecellio-Alfieri,VNTNTN08B08E892M,24,Geoscientist,1,119,54,13,50,22.3,0.205,0
+386,Sig.ra Vanessa Pulci,LMGLRN22R64F710N,35,"Editor, film/video",5,116,74,29,0,32.3,0.66,1
+387,Dott. Adelasia Mazzanti,PGNDLM84M62D673C,45,Office manager,8,105,100,36,0,43.3,0.239,1
+388,Flora Tarantini,TRNMNL11E61C158G,58,Archaeologist,5,144,82,26,285,32.0,0.452,1
+389,Tatiana Lopresti,LVTNCL85L56A045E,28,Clothing/textile technologist,3,100,68,23,81,31.6,0.949,0
+390,Dott. Margherita Abbagnale,SGSRLD17D65I511F,42,Meteorologist,1,100,66,29,196,32.0,0.444,0
+391,Giada Peruzzi,GLNLNE61T22I062I,27,Animator,5,166,76,0,0,45.7,0.34,1
+392,Ida Semitecolo,TSLCSR63A53H063P,21,"Biochemist, clinical",1,131,64,14,415,23.7,0.389,0
+393,Sig.ra Emma Ruggeri,FBNBRT43L54E968M,37,Building control surveyor,4,116,72,12,87,22.1,0.463,0
+394,Sig.ra Antonella Toscani,MNTVIO38L41F496E,31,Printmaker,4,158,78,0,0,32.9,0.803,1
+395,Fernanda Federico-Gargallo,GGLLRZ99R45B042F,25,Ecologist,2,127,58,24,275,27.7,1.6,0
+396,Giuliana Modigliani,QSMGSI97E56H055V,39,"Scientist, research (life sciences)",3,96,56,34,115,24.7,0.944,0
+397,Antonia Pasqua,BSSMRA23D09I185L,22,Gaffer,0,131,66,40,0,34.3,0.196,1
+398,Beatrice Boaga,MNCGMR34B47D203U,25,Analytical chemist,3,82,70,0,0,21.1,0.389,0
+399,Serena Taccola,SCRPRI58H42D600P,25,"Copywriter, advertising",3,193,70,31,0,34.9,0.241,1
+400,Amalia Turchetta,CPPGRM60L44D100H,31,Chief Executive Officer,4,95,64,0,0,32.0,0.161,1
+401,Maria Pagnotto,GNZDNL36A42H491D,55,"Scientist, research (maths)",6,137,61,0,0,24.2,0.151,0
+402,Nina Sermonti,SNTLLR44T08C496W,35,Probation officer,5,136,84,41,88,35.0,0.286,1
+403,Maria Parmitano-Fogazzaro,GROCLL63P14I233K,38,Patent examiner,9,72,78,25,0,31.6,0.28,0
+404,Cassandra Pennetta,SCHLCN00M08A084M,41,Television production assistant,5,168,64,0,0,32.9,0.135,1
+405,Luciana Gregorio,TPLMCL72A49A810X,26,Ophthalmologist,2,123,48,32,165,42.1,0.52,0
+406,Dott. Adriana Modugno,GRSSLV52T44B872F,46,Forensic psychologist,4,115,72,0,0,28.9,0.376,1
+407,Laura Zichichi,GNNLSN73E53L638R,25,Facilities manager,0,101,62,0,0,21.9,0.336,0
+408,Carolina Ficino,DNLNTN61E19G854U,39,Fitness centre manager,8,197,74,0,0,25.9,1.191,1
+409,Sig.ra Luigina Tafuri,VLMDRT74H50F385Q,28,Arboriculturist,1,172,68,49,579,42.4,0.702,1
+410,Clelia Venditti,SCRMLA39S11E480L,28,Adult nurse,6,102,90,39,0,35.7,0.674,0
+411,Silvia Asmundo,SRNFDL09H50D805K,25,Music tutor,1,112,72,30,176,34.4,0.528,0
+412,Dott. Rossana Duse,VGRSIA00D08I646A,22,Surgeon,1,143,84,23,310,42.4,1.076,0
+413,Antonia Mantegna,GRMMRT13P05I718X,21,"Therapist, music",1,143,74,22,61,26.2,0.256,0
+414,Melissa Squarcione,BSDGLI04L42C903N,21,Radiation protection practitioner,0,138,60,35,167,34.6,0.534,1
+415,Giovanna Emanuelli-Bonino,FRNFBZ27C43G793R,22,Research scientist (life sciences),3,173,84,33,474,35.7,0.258,1
+416,Ilaria Moretti,TRCGRL78R12G359J,22,"Therapist, speech and language",1,97,68,21,0,27.2,1.095,0
+417,Giulia Donatoni-Pirandello,CSLGNN57B17F209F,37,Television production assistant,4,144,82,32,0,38.5,0.554,1
+418,Sig.ra Valeria Valmarana,TFRLRT81S10C770W,27,Broadcast journalist,1,83,68,0,0,18.2,0.624,0
+419,Roberta Pisani,BRBCLC91R57F023O,28,Midwife,3,129,64,29,115,26.4,0.219,1
+420,Sig.ra Gabriella Poerio,NDANTN13E18A765C,26,Publishing rights manager,1,119,88,41,170,45.3,0.507,0
+421,Sig.ra Livia Briccialdi,TRNMRN67A52G532O,21,Art therapist,2,94,68,18,76,26.0,0.561,0
+422,Renata Sgalambro,PLZGLN94P06B097B,21,Wellsite geologist,0,102,64,46,78,40.6,0.496,0
+423,Tonia Molesini,MJRPLA83L53A707W,21,"Psychologist, counselling",2,115,64,22,0,30.8,0.421,0
+424,Clelia Rizzo,FBBMRN84B28E147M,36,Acupuncturist,8,151,78,32,210,42.9,0.516,1
+425,Giuliana Romano-Dibiasi,CHPFLV02S58B648T,31,Writer,4,184,78,39,277,37.0,0.264,1
+426,Ida Barberini-Jilani,SCDMCL91M57E085H,25,Health and safety adviser,0,94,0,0,0,0.0,0.256,0
+427,Ilaria Antonacci,MRZFRD17C42H152I,38,Occupational hygienist,1,181,64,30,180,34.1,0.328,1
+428,Zaira Armellini,PLSRNZ71D62B378C,26,Production manager,0,135,94,46,145,40.6,0.284,0
+429,Dott. Elisa Niggli,BRMLLT58R04E056C,43,Tourist information centre manager,1,95,82,25,180,35.0,0.233,1
+430,Camilla Calgari,PNNPPZ54L52A281T,23,Town planner,2,99,0,0,0,22.2,0.108,0
+431,Giuseppina Zamengo,NNCPLA54M53B808N,38,Commercial horticulturist,3,89,74,16,85,30.4,0.551,0
+432,Cecilia Ossola-Juvara,NTNGML45M65F191D,22,Patent examiner,1,80,74,11,60,30.0,0.527,0
+433,Livia Villarosa,BRCLVI63R18F809M,29,Interpreter,2,139,75,0,0,25.6,0.167,0
+434,Maura Pergolesi-Smirnoff,CMLHGU80T48C376U,36,"Sales professional, IT",1,90,68,8,0,24.5,1.138,0
+435,Sylvia Cicilia,FRRNNS79C20F991C,29,"Scientist, marine",0,141,0,0,0,42.4,0.205,1
+436,Rosa Buonauro,GSSGLS43E54D346H,41,Special educational needs teacher,12,140,85,33,0,37.4,0.244,0
+437,Stefania Marino-Sobrero,NGRGMR45P61D645D,28,Government social research officer,5,147,75,0,0,29.9,0.434,0
+438,Francesca Govoni,SGSNCL95L45I040Q,21,"Surveyor, hydrographic",1,97,70,15,0,18.2,0.147,0
+439,Luciana Argurio,BRZNPN37A46G712C,31,Adult guidance worker,6,107,88,0,0,36.8,0.727,0
+440,Giorgia Muratori-Govoni,CNTLLN38E27L134W,41,Seismic interpreter,0,189,104,25,0,34.3,0.435,1
+441,Pierina Pulci,SBLDNN60D17C199V,22,"Nurse, adult",2,83,66,23,50,32.2,0.497,0
+442,Antonella Cagnin-Magnani,SCTDLA88M09B780Y,24,Gaffer,4,117,64,27,120,33.2,0.23,0
+443,Marissa Canova,PGFDRN10M02B223G,33,"Geologist, engineering",8,108,70,0,0,30.5,0.955,1
+444,Ludovica Piccio-Tron,BCCLGU05P64B778R,30,Higher education lecturer,4,117,62,12,0,29.7,0.38,1
+445,Luisa Valentino,TRVMRS08P21G886L,25,Claims inspector/assessor,0,180,78,63,14,59.4,2.42,1
+446,Melina Parpinel-Vergassola,RRCCRN02E25B980H,28,Research scientist (medical),1,100,72,12,70,25.3,0.658,0
+447,Vanessa Morgagni,LNCMRC19R45F310O,26,"Radiographer, therapeutic",0,95,80,45,92,36.5,0.33,0
+448,Marta Tozzo,PNNMCL37E54L173W,22,Waste management officer,0,104,64,37,64,33.6,0.51,1
+449,Cassandra Santi,TRNMLN69H20A200A,26,Claims inspector/assessor,0,120,74,18,63,30.5,0.285,0
+450,Dott. Elvira Rapisardi,MCNRND82L48I215Z,23,Fisheries officer,1,82,64,13,95,21.2,0.415,0
+451,Rita Gangemi,CNVNNR19B13E707D,23,Sub,2,134,70,0,0,28.9,0.542,1
+452,Federica Treccani,FLPLRN88S59C845G,25,Risk analyst,0,91,68,32,210,39.9,0.381,0
+453,Tiziana Palombi,RROSRN84C25D714S,72,Conference centre manager,2,119,0,0,0,19.6,0.832,0
+454,Dott. Alessandra Pagliaro,TCCNTT78B15D016W,24,Homeopath,2,100,54,28,105,37.8,0.498,0
+455,Liliana Panatta,FRCMCA04R49L027R,38,Hotel manager,14,175,62,30,0,33.6,0.212,1
+456,Giorgia Rosiello-Farinelli,ZPPLCN21A20E716N,62,Systems developer,1,135,54,0,0,26.7,0.687,0
+457,Dott. Marcella Rosmini,CRSVRN34S19I224P,24,Art gallery manager,5,86,68,28,71,30.2,0.364,0
+458,Natalia Badoer,MCCMLS28C02B741A,51,Travel agency manager,10,148,84,48,237,37.6,1.001,1
+459,Mercedes Tolentino-Bonanno,TMSLRT95B17C656B,81,"Journalist, magazine",9,134,74,33,60,25.9,0.46,0
+460,Virginia Bixio,BGGFRN04A04B398U,48,Osteopath,9,120,72,22,56,20.8,0.733,0
+461,Tiziana Bompiani,VRGRMN16B22I891J,26,Clinical psychologist,1,71,62,0,0,21.8,0.416,0
+462,Diana Giolitti,TRNFDC44D56B709O,39,Contracting civil engineer,8,74,70,40,49,35.3,0.705,0
+463,Isa Schiavone,PSLMRA56S28I938S,37,Field trials officer,5,88,78,30,0,27.6,0.258,0
+464,Dott. Federica Tafuri,MRZPRD57M68D738H,34,Estate manager/land agent,10,115,98,0,0,24.0,1.022,0
+465,Serena Comolli,CSRPNI25L10F067P,21,Government social research officer,0,124,56,13,105,21.8,0.452,0
+466,Antonina Romagnoli,MRNGCT08E58E994O,22,"Psychologist, educational",0,74,52,10,36,27.8,0.269,0
+467,Alessandra Faranda,FRRCPN28L62C337J,25,Health and safety adviser,0,97,64,36,100,36.8,0.6,0
+468,Elvira Granatelli,GNNLZR80S48L393F,38,"Education officer, museum",8,120,0,0,0,30.0,0.183,1
+469,Mercedes Chindamo,NTNTMT87L48G888M,27,"Surveyor, commercial/residential",6,154,78,41,140,46.1,0.571,0
+470,Dott. Giorgia Barsanti,SLVNZE68T62L570X,28,"Therapist, music",1,144,82,40,0,41.3,0.607,0
+471,Dott. Rosalia Schiavone,GBRMRA53C14F262S,22,Commissioning editor,0,137,70,38,0,33.2,0.17,0
+472,Iolanda Ortese,LMBDLA85S01F991Q,22,"Surveyor, building",0,119,66,27,0,38.8,0.259,0
+473,Graziella Raimondi,BRRVNL83H09H810J,50,Event organiser,7,136,90,0,0,29.9,0.21,0
+474,Dott. Serafina Pedrazzini,BNMPNI86M13F489M,24,"Chemist, analytical",4,114,64,0,0,28.9,0.126,0
+475,Germana Argurio,GTTMRN47B26D179P,59,Records manager,0,137,84,27,0,27.3,0.231,0
+476,Licia Grifeo,MJWRMR29P63L713L,29,"Therapist, horticultural",2,105,80,45,191,33.7,0.711,1
+477,Nina Cafarchia-Bernini,TDSRNL15D10G579I,31,Accommodation manager,7,114,76,17,110,23.8,0.466,0
+478,Dott. Gloria Bianchini,TRRGCB15M68F395D,39,Mudlogger,8,126,74,38,75,25.9,0.162,0
+479,Elisa Speri,LTTLDI20P27F452K,63,Horticultural consultant,4,132,86,31,0,28.0,0.419,0
+480,Nedda Sonnino,SCRMLD31E10G826Y,35,"Scientist, research (medical)",3,158,70,30,328,35.5,0.344,1
+481,Eliana Polizzi-Sraffa,GNTMRN58H16B216V,29,Plant breeder/geneticist,0,123,88,37,0,35.2,0.197,0
+482,Paola Veltroni,FLNMLD43P28E078A,28,Charity officer,4,85,58,22,49,27.8,0.306,0
+483,Victoria Veneziano,RMNGML57D58H202N,23,Fashion designer,0,84,82,31,125,38.2,0.233,0
+484,Carolina Malpighi,MNGLRA15E07H014K,31,"Scientist, research (physical sciences)",0,145,0,0,0,44.2,0.63,1
+485,Chiara Bignardi,CRLVRN04S28I878D,24,Minerals surveyor,0,135,68,42,250,42.3,0.365,1
+486,Annalisa Monduzzi,CRNMRA36D48C509L,21,"Psychotherapist, dance movement",1,139,62,41,480,40.7,0.536,0
+487,Dott. Carla Carocci,FRMTTN85R22E709T,58,"Engineer, maintenance (IT)",0,173,78,32,265,46.5,1.159,0
+488,Sig.ra Donna Belletini,BTTMRA72T07L664O,28,"Geologist, wellsite",4,99,72,17,0,25.6,0.294,0
+489,Dott. Michela Carpaccio,TSSMND72S01D644L,67,Land/geomatics surveyor,8,194,80,0,0,26.1,0.551,0
+490,Barbara Treccani,VSPVCR22T07A119E,24,Media planner,2,83,65,28,66,36.8,0.629,0
+491,Dott. Etta Bragadin,FRRGUO86B62M044G,42,Arboriculturist,2,89,90,30,0,33.5,0.292,0
+492,Angelica Pugliese,PRNGCT08P60C503H,33,Health visitor,4,99,68,38,0,32.8,0.145,0
+493,Eugenia Roccabonella,ZNISTN75T28C917Q,45,Contractor,4,125,70,18,122,28.9,1.144,1
+494,Lilla Mascagni-Castellitto,RNZGFR89P43F407X,22,Theme park manager,3,80,0,0,0,0.0,0.174,0
+495,Sig.ra Marissa Almagià,TZZLDA41P59F313J,66,Operational investment banker,6,166,74,0,0,26.6,0.304,0
+496,Giada Caracciolo,SFFNCL15E43H127G,30,Corporate treasurer,5,110,68,0,0,26.0,0.292,0
+497,Dott. Erika Morabito,GRBGCM30L65I124A,25,Company secretary,2,81,72,15,76,30.1,0.547,0
+498,Roberta Garzoni,MNTLNR31C12E187L,55,Forest/woodland manager,7,195,70,33,145,25.1,0.163,1
+499,Ida Condoleo-Giradello,DSELNR05S13A105R,39,Medical sales representative,6,154,74,32,193,29.3,0.839,0
+500,Marisa Carocci,BZZVRN28S19C532E,21,Sport and exercise psychologist,2,117,90,19,71,25.2,0.313,0
+501,Paloma Campanella-Ovadia,FRZMRC89M46L508B,28,Chartered public finance accountant,3,84,72,32,0,37.2,0.267,0
+502,Alina Schiavo,MLNNNE62L42H899Q,41,Special educational needs teacher,6,0,68,41,0,39.0,0.727,1
+503,Gabriella Verga,PNTCRL53D52D392E,41,"Administrator, education",7,94,64,25,79,33.3,0.738,0
+504,Rita Doglioni-Lussu,FSCLFA09D63C160V,40,"Investment banker, operational",3,96,78,39,0,37.3,0.238,0
+505,Lilla Fermi,CDUNNT66B26L438A,38,Furniture designer,10,75,82,0,0,33.3,0.263,0
+506,Antonietta Troisi,LTTVNS80R13A024N,35,Applications developer,0,180,90,26,90,36.5,0.314,1
+507,Angelica Abate-Fioravanti,CRSBPP55M68H961S,21,Research scientist (life sciences),1,130,60,23,170,28.6,0.692,0
+508,Ninetta Camanni,BTTTNO14E24E800E,21,Chiropractor,2,84,50,23,76,30.4,0.968,0
+509,Annetta Abba-Tamburello,FRMRNT95L20A273A,64,Sports therapist,8,120,78,0,0,25.0,0.409,0
+510,Patrizia Toscani,GNNVNC36E67H682P,46,Multimedia specialist,12,84,72,31,0,29.7,0.297,1
+511,Sonia Basso-Fieramosca,BNTMME86L02H078Z,21,Building services engineer,0,139,62,17,210,22.1,0.207,0
+512,Dott. Diana Aloisio,LCRNDA86E10B501G,58,Clinical psychologist,9,91,68,0,0,24.2,0.2,0
+513,Nedda Fantozzi,TNSCML89T42H432P,22,Barista,2,91,62,0,0,27.3,0.525,0
+514,Martina Dulbecco,GRONPN15L45I697R,24,Insurance account manager,3,99,54,19,86,25.6,0.154,0
+515,Lolita Bellò,PRDLBT80R61E747C,28,"Physicist, medical",3,163,70,18,105,31.6,0.268,1
+516,Eva Busoni,SBLFRN75R56G264P,53,Public house manager,9,145,88,34,165,30.3,0.771,1
+517,Giuseppina Ceci,MSTLND89C07H205D,51,Broadcast engineer,7,125,86,0,0,37.6,0.304,0
+518,Stefani Camiscione,LNCLND03R52A805G,41,Cabin crew,13,76,60,0,0,32.8,0.18,0
+519,Annamaria Montanariello-Tartini,VGDVTR42P17G248L,60,Chartered public finance accountant,6,129,90,7,326,19.6,0.582,0
+520,Livia Praga,LXRGLS25C63B590L,25,Firefighter,2,68,70,32,66,25.0,0.187,0
+521,Rossana Celentano,GRGLNI06C26I793A,26,"Restaurant manager, fast food",3,124,80,33,130,33.2,0.305,0
+522,Dott. Veronica Interminelli,RSTLLL22D12C704K,26,Community arts worker,6,114,0,0,0,0.0,0.189,0
+523,Serena Tosi,MRNNTN32H25I449W,45,Research scientist (medical),9,130,70,0,0,34.2,0.652,1
+524,Donatella Scaramucci-Gemito,SCLNNZ80H22I348B,24,Health and safety adviser,3,125,58,0,0,31.6,0.151,0
+525,Giulietta Bodoni,SPDPLA23C68I151A,21,Insurance risk surveyor,3,87,60,18,0,21.8,0.444,0
+526,Alessia Galtarossa,GGLGNR61E57A891N,21,Professor Emeritus,1,97,64,19,82,18.2,0.299,0
+527,Valeria Fiorucci,VSCLSE59D25A789U,24,"Designer, exhibition/display",3,116,74,15,105,26.3,0.107,0
+528,Dott. Simonetta Mondaini,NOIBLD08B47A772Q,22,"Teacher, secondary school",0,117,66,31,188,30.8,0.493,0
+529,Concetta Mozart,STRPLG05C57C079Y,31,Regulatory affairs officer,0,111,65,0,0,24.6,0.66,0
+530,Dott. Angelina Tognazzi,TRPFBZ13B13L729W,22,Newspaper journalist,2,122,60,18,106,29.8,0.717,0
+531,Rosina Casaleggio,CPPLDC01T43I357D,24,Management consultant,0,107,76,0,0,45.3,0.686,0
+532,Martina Lerner,CSRGDI36R04A452X,29,Field trials officer,1,86,66,52,65,41.3,0.917,0
+533,Marisa Venturi,QRNSNN21M66F371C,31,Writer,6,91,0,0,0,29.8,0.501,0
+534,Sig.ra Loredana Fioravanti,BLLCRD13S41B213J,24,Higher education careers adviser,1,77,56,30,56,33.3,1.251,0
+535,Cristina Dovara,PZZDNN47B15D050X,23,Secretary/administrator,4,132,0,0,0,32.9,0.302,1
+536,Dott. Victoria Piccio,RRNRMN18T06A837N,46,Manufacturing engineer,0,105,90,0,0,29.6,0.197,0
+537,Allegra Nitti,TMBMRC77M62H901Z,67,Special effects artist,0,57,60,0,0,21.7,0.735,0
+538,Lisa Giorgetti,RSLNNN99P48H444F,23,Herbalist,0,127,80,37,210,36.3,0.804,0
+539,Pina Pausini,LDBBNT52D48D728D,32,Writer,3,129,92,49,155,36.4,0.968,1
+540,Adele Foconi,BCCPLG43H45A135Q,43,Dealer,8,100,74,40,215,39.4,0.661,1
+541,Elvira Trebbi-Scarfoglio,CZZCSN24R16E880P,27,Materials engineer,3,128,72,25,190,32.4,0.549,1
+542,Sig.ra Giulia Roth,CHCLCI84T02F845U,56,Air traffic controller,10,90,85,32,0,34.9,0.825,1
+543,Evangelista Pelli,CVLDIA75B18B906B,25,"Scientist, research (medical)",4,84,90,23,56,39.5,0.159,0
+544,Simonetta Cibin,MNTCLL13D19G951W,29,Insurance risk surveyor,1,88,78,29,76,32.0,0.365,0
+545,Rosina Porzio,CRDDNI28H21D033C,37,"Designer, fashion/clothing",8,186,90,35,225,34.5,0.423,1
+546,Dott. Amanda Passalacqua,BRCGLI38M51G622C,53,"Engineer, petroleum",5,187,76,27,207,43.6,1.034,1
+547,Elvira Jacuzzi,NFNDRT64A47G338V,28,Medical laboratory scientific officer,4,131,68,21,166,33.1,0.16,0
+548,Tina Borsiere,PVNRNT07S06F440Y,50,Financial risk analyst,1,164,82,43,67,32.8,0.341,0
+549,Emma Mercati-Burcardo,LLLVTR28C13E787N,37,Air traffic controller,4,189,110,31,0,28.5,0.68,0
+550,Elisa Carducci,FLRLLT36A06G620P,21,Race relations officer,1,116,70,28,0,27.4,0.204,0
+551,Maria Luciani,TNNTTE54S19D472D,25,Biomedical engineer,3,84,68,30,106,31.9,0.591,0
+552,Isa Carducci,SNNTTN61S06E255F,66,Chief Executive Officer,6,114,88,0,0,27.8,0.247,0
+553,Carolina Colletti,PCMLZR70D57E026M,23,Mudlogger,1,88,62,24,44,29.9,0.422,0
+554,Isa Venier,BNCNNZ37E20L366L,28,Site engineer,1,84,64,23,115,36.9,0.471,0
+555,Flavia Sermonti,CHRLNI16D28H687K,37,Chief Technology Officer,7,124,70,33,215,25.5,0.161,0
+556,Aria Martinelli,VLMFLP99M05D520N,30,Landscape architect,1,97,70,40,0,38.1,0.218,0
+557,Dott. Tina Lucarelli,TLNPRN01P28F209I,58,Colour technologist,8,110,76,0,0,27.8,0.237,0
+558,Dott. Carolina Quasimodo,FLNCML10T49B419Q,42,Magazine features editor,11,103,68,40,0,46.2,0.126,0
+559,Concetta Maffei,PLLLGU44S46C091Q,35,"Engineer, petroleum",11,85,74,0,0,30.1,0.3,0
+560,Irma Greco,GRTGCM27L57D850F,54,Astronomer,6,125,76,0,0,33.8,0.121,1
+561,Eliana Stoppani-Castiglione,PGLNTA69R04M108I,28,Surgeon,0,198,66,32,274,41.3,0.502,1
+562,Bettina Brenna-Comisso,CMPNNS82A26F088N,24,"Programmer, multimedia",1,87,68,34,77,37.6,0.401,0
+563,Rossana Ungaretti,BLBRMN87M41M368V,32,"Education officer, community",6,99,60,19,54,26.9,0.497,0
+564,Amalia Ceci,BRZGCH72B43E681L,27,Communications engineer,0,91,80,0,0,32.4,0.601,0
+565,Francesca Agazzi,BTTBRR54L43L809M,22,Broadcast engineer,2,95,54,14,88,26.1,0.748,0
+566,Tatiana Scandone,TCCDNN61P22E910G,21,"Producer, radio",1,99,72,30,18,38.6,0.412,0
+567,Nadia Chiaramonte,MNCGMR16R51E704W,46,Water engineer,6,92,62,32,126,32.0,0.085,0
+568,Dott. Serafina Pontecorvo,PRRGDI61S16A600F,37,Consulting civil engineer,4,154,72,29,126,31.3,0.338,0
+569,Luciana Contrafatto-Toninelli,DRSSBN56C65F586V,33,"Engineer, agricultural",0,121,66,30,165,34.3,0.203,1
+570,Bettina Bottigliero,BRZCHL95T64G589R,39,Paramedic,3,78,70,0,0,32.5,0.27,0
+571,Lucia Mennea,NLCVRL45R55I562S,21,Retail banker,2,130,96,0,0,22.6,0.268,0
+572,Dott. Loretta Prati,BRNBGI89H57F203P,22,Risk analyst,3,111,58,31,44,29.5,0.43,0
+573,Claudia Camilleri,MLTSBL02D25E367B,22,Dispensing optician,2,98,60,17,120,34.7,0.198,0
+574,Sig.ra Ilaria Tremonti,ZNCMCL31H03F546I,23,Clinical cytogeneticist,1,143,86,30,330,30.1,0.892,0
+575,Maura Toselli,DSDDIA33H17D994L,25,Air traffic controller,1,119,44,47,63,35.5,0.28,0
+576,Ornella Fattori,CPNDIA16P16B116A,35,"Psychologist, educational",6,108,44,20,130,24.0,0.813,0
+577,Marcella Sgalambro,BTTRKE95E26H311T,21,"Therapist, music",2,118,80,0,0,42.9,0.693,1
+578,Clelia Caironi,GRSGSN55A53H387P,36,"Conservation officer, nature",10,133,68,0,0,27.0,0.245,0
+579,Monica Sauli,MRSRTI65A09B227X,62,Analytical chemist,2,197,70,99,0,34.7,0.575,1
+580,Liliana Finotto,GLTSNT59H65A308Z,21,Secondary school teacher,0,151,90,46,0,42.1,0.371,1
+581,Flavia Pederiva,PRTMDA73R66A516B,27,Cartographer,6,109,60,27,0,25.0,0.206,0
+582,Alina Proietti,SBRCRL03P41L531C,62,"Development worker, international aid",12,121,78,17,0,26.5,0.259,0
+583,Antonina Cainero,MRRGBL30B50L304W,42,Industrial/product designer,8,100,76,0,0,38.7,0.19,0
+584,Flavia Maggioli,DROGLN11A45G417G,52,"Engineer, broadcasting (operations)",8,124,76,24,600,28.7,0.687,1
+585,Giada Magrassi,MLPNDD57E03B743Q,22,Structural engineer,1,93,56,11,0,22.5,0.417,0
+586,Victoria Ajello,VSNCLC35M58C394H,41,Product manager,8,143,66,0,0,34.9,0.129,1
+587,Erika Bottaro-Avogadro,TMBPRG24E41I690G,29,Environmental health practitioner,6,103,66,0,0,24.3,0.249,0
+588,Sandra Mastroianni,CRBGNC16R54H166C,52,Corporate treasurer,3,176,86,27,156,33.3,1.154,1
+589,Stefania Rismondo-Scotto,TLRDRA15H06D162R,25,"Programmer, systems",0,73,0,0,0,21.1,0.342,0
+590,Greca Vittadello,RNZTNF94B42F147S,45,Psychiatric nurse,11,111,84,40,0,46.8,0.925,1
+591,Roberta Tommaseo,PTRGLI75D05E216L,24,Clinical biochemist,2,112,78,50,140,39.4,0.175,0
+592,Sig.ra Filippa Fioravanti,MNCGNI45A49D856W,44,Field seismologist,3,132,80,0,0,34.4,0.402,1
+593,Clelia Antonucci-Soffici,LNCSLS82H49L186D,25,"Runner, broadcasting/film/video",2,82,52,22,115,28.5,1.699,0
+594,Mercedes Pulci,MRCGSR28D68M202M,34,Television floor manager,6,123,72,45,230,33.6,0.733,0
+595,Lucia Curatoli-Greco,GLTGSV94C41G861O,22,Higher education careers adviser,0,188,82,14,185,32.0,0.682,1
+596,Adriana Busoni,CRTRSL97D01C975Y,46,Physiological scientist,0,67,76,0,0,45.3,0.194,0
+597,Dott. Vanessa Tresoldi,GBRDLS60D01D143H,21,"Secretary, company",1,89,24,19,25,27.8,0.559,0
+598,Antonella Lancisi,MRTGNT04R66B861Y,38,Emergency planning/management officer,1,173,74,0,0,36.8,0.088,1
+599,Giuseppina Seddio,RSSNNL77E43A665E,26,Chief Operating Officer,1,109,38,18,120,23.1,0.407,0
+600,Alessia Stein,BNNLLN96D13M016C,24,"Surveyor, rural practice",1,108,88,19,0,27.1,0.4,0
+601,Rosina Caironi,BBGPTZ38E25G606P,28,"Engineer, water",6,96,0,0,0,23.7,0.19,0
+602,Sig.ra Giuseppina Pisaroni,MRSSTN06R18C209Z,30,Technical sales engineer,1,124,74,36,0,27.8,0.1,0
+603,Michela Musatti,CLISMN73M65C804P,54,Oceanographer,7,150,78,29,126,35.2,0.692,1
+604,Sig.ra Donna Boitani,CSLMRA78B19F154J,36,"Designer, industrial/product",4,183,0,0,0,28.4,0.212,1
+605,Lolita Beccheria,BLLFDC88C28A453Z,21,Licensed conveyancer,1,124,60,32,0,35.8,0.514,0
+606,Rossana Pavanello,BNDFRN00H43G780D,22,Herbalist,1,181,78,42,293,40.0,1.258,1
+607,Maura Pirelli,GTTDIA53B12H641O,25,"Surveyor, insurance",1,92,62,25,41,19.5,0.482,0
+608,Lilla Morpurgo,RNCMRA83B53H760H,27,Animator,0,152,82,39,272,41.5,0.27,0
+609,Alina Tamburello-Rensi,MRNLLT23H26D082S,23,"Psychologist, occupational",1,111,62,13,182,24.0,0.138,0
+610,Diana Fermi,PRNNDA11B25C050H,24,Control and instrumentation engineer,3,106,54,21,158,30.9,0.292,0
+611,Antonia Stucchi,PGNSNO02R20E423N,36,Risk manager,3,174,58,22,194,32.9,0.593,1
+612,Marisa Moschino-Pistoletto,NTRSLV89R42B828U,40,Architectural technologist,7,168,88,42,321,38.2,0.787,1
+613,Olga Cuzzocrea,MCCPRR38H52C382Z,26,Educational psychologist,6,105,80,28,0,32.5,0.878,0
+614,Tina Zamengo-Balbi,SLGCHR43S15D812K,50,Glass blower/designer,11,138,74,26,144,36.1,0.557,1
+615,Serena Pigafetta,FLLCLD79L51D472S,27,Bonds trader,3,106,72,0,0,25.8,0.207,0
+616,Dott. Isa Mazzeo,STGLRN93R12D684V,30,"Psychologist, forensic",6,117,96,0,0,28.7,0.157,0
+617,Daria Raimondi,MSTGNZ24M58D207V,23,Artist,2,68,62,13,15,20.1,0.257,0
+618,Ludovica Pozzecco-Canali,BRLTLL32R66L565G,50,Health promotion specialist,9,112,82,24,0,28.2,1.282,1
+619,Vittoria Caracciolo,CLLPRN40D49I028X,24,Veterinary surgeon,0,119,0,0,0,32.4,0.141,1
+620,Sig.ra Greca Nicoletti,DNZDNI27M18B309X,28,Financial controller,2,112,86,42,160,38.4,0.246,0
+621,Elvira Torricelli-Maderno,MCCVRC48L10B332R,28,"Lighting technician, broadcasting/film/video",2,92,76,20,0,24.2,1.698,0
+622,Melissa Tebaldi-Curiel,PZZLND00S17G877J,45,Clinical biochemist,6,183,94,0,0,40.8,1.461,0
+623,Dott. Lara Saragat,PLTRSR53B49F032Z,21,Production manager,0,94,70,27,115,43.5,0.347,0
+624,Berenice Biagi,LTTMRL71T43A313W,21,Geophysical data processor,2,108,64,0,0,30.8,0.158,0
+625,Romina Petrocelli,MNTLFA11L67I332Q,29,"Engineer, electrical",4,90,88,47,54,37.7,0.362,0
+626,Stella Babati,CPPVRC67H24D286F,21,Financial trader,0,125,68,0,0,24.7,0.206,0
+627,Ilaria Magnani,VNLVNN89E48A601A,21,Government social research officer,0,132,78,0,0,32.4,0.393,0
+628,Dott. Martina Magnani,CFRMLA12R08F726Y,45,Private music teacher,5,128,80,0,0,34.6,0.144,0
+629,Mercedes Zabarella,GLRLSU28S18H877Q,21,Engineering geologist,4,94,65,22,0,24.7,0.148,0
+630,Dott. Mariana Satta,NVITZN33R03G303E,34,Camera operator,7,114,64,0,0,27.4,0.732,1
+631,Isa Ughi,LRCLBT19M54B292N,24,"Designer, interior/spatial",0,102,78,40,90,34.5,0.238,0
+632,Dott. Germana Pizziol,VSRFLV70C63D201F,23,Illustrator,2,111,60,0,0,26.2,0.343,0
+633,Elvira Sismondi,MCCDLS09C22D871X,22,Clinical research associate,1,128,82,17,183,27.5,0.115,0
+634,Mercedes Canetta,RCCRTI14C27B481W,31,Chartered loss adjuster,10,92,62,0,0,25.9,0.167,0
+635,Daria Gotti,SPDMRN64C60B020Z,38,"Geologist, wellsite",13,104,72,0,0,31.2,0.465,1
+636,Barbara Gualtieri,PPINNI22E55E786A,48,Health visitor,5,104,74,0,0,28.8,0.153,0
+637,Laura Gremese,VNTGVN46E16H783P,23,Chiropodist,2,94,76,18,66,31.6,0.649,0
+638,Carolina Bruno,GLTFBA83S27F175T,32,"Surveyor, quantity",7,97,76,32,91,40.9,0.871,1
+639,Gloria Casalodi-Druso,SNTPRG89S58D259K,28,Mining engineer,1,100,74,12,46,19.5,0.149,0
+640,Virginia Gigli,TRTLCN90P12G418J,27,Media buyer,0,102,86,17,105,29.3,0.695,0
+641,Francesca Liverotti,VRGDNL87C12D421X,24,"Teacher, adult education",4,128,70,0,0,34.3,0.303,0
+642,Eliana Bevilacqua-Venturi,CHNMND69R20L994W,50,Museum/gallery conservator,6,147,80,0,0,29.5,0.178,1
+643,Rosa Casalodi,CSLDNN34T26H187H,31,"Biochemist, clinical",4,90,0,0,0,28.0,0.61,0
+644,Dott. Evangelista Niscoromni,BRNGNN81C61C189I,27,"Designer, blown glass/stained glass",3,103,72,30,152,27.6,0.73,0
+645,Irma Sinisi,MSCBTC54S08M156I,30,Seismic interpreter,2,157,74,35,440,39.4,0.134,0
+646,Giada Antonucci,NGSSLV75A64I096W,33,Systems analyst,1,167,74,17,144,23.4,0.447,1
+647,Chiara Marzorati,LPRFLR80S25F900W,22,"Development worker, community",0,179,50,36,159,37.8,0.455,1
+648,Melania Palombi-Niggli,VSCGRN84E44I661E,42,"Journalist, magazine",11,136,84,35,130,28.3,0.26,1
+649,Silvia Bianchi,BTTNZE16A53B827B,23,Manufacturing systems engineer,0,107,60,25,0,26.4,0.133,0
+650,Stella Boldù-Bresciani,CNTBLD25C50M281I,23,Broadcast journalist,1,91,54,25,100,25.2,0.234,0
+651,Ramona Rensi,BFFGRG61R23D557F,27,Health promotion specialist,1,117,60,23,106,33.8,0.466,0
+652,Rosa Callegaro,MRRGLN38P23I567H,28,Metallurgist,5,123,74,40,77,34.1,0.269,0
+653,Eleanora Zola,BNDDNL24A59D137J,27,Analytical chemist,2,120,54,0,0,26.8,0.455,0
+654,Sig.ra Giulia Giunti,BRMGNE20S04E967J,22,Animal technologist,1,106,70,28,135,34.2,0.142,0
+655,Luciana Villarosa,MNTDRA42S27D842Z,25,Civil Service fast streamer,2,155,52,27,540,38.7,0.24,1
+656,Dott. Serafina Ruberto,PSTPSL32B55C565E,22,Music tutor,2,101,58,35,90,21.8,0.155,0
+657,Annalisa Luxardo,TRPLLN26A17E482O,41,Community education officer,1,120,80,48,200,38.9,1.162,0
+658,Dolores Bettin,PGLGRN79P25E737V,51,"Accountant, chartered public finance",11,127,106,0,0,39.0,0.19,0
+659,Nicoletta Bonaventura,FGTGFR28B46L251S,27,Diagnostic radiographer,3,80,82,31,70,34.2,1.292,1
+660,Sylvia Disdero,GNTPCC80M43F427P,54,Tree surgeon,10,162,84,0,0,27.7,0.182,0
+661,Filippa Regge,BTTGLR71L25C055O,22,"Radiographer, therapeutic",1,199,76,43,0,42.9,1.394,1
+662,Silvia Gianetti,RSSCRI39A44L434O,43,"Engineer, building services",8,167,106,46,231,37.6,0.165,1
+663,Adelasia Varano-Ziani,PRNDNN36E04C594K,40,Counselling psychologist,9,145,80,46,130,37.9,0.637,1
+664,Evangelista Saraceno-Argan,BBGCRL40L07H446Y,40,Investment analyst,6,115,60,39,0,33.7,0.245,1
+665,Lolita Babati,FLPRTI27B11H414B,24,Analytical chemist,1,112,80,45,132,34.8,0.217,0
+666,Lolita Castelli,PRLDNL31C52A539O,70,Aeronautical engineer,4,145,82,18,0,32.5,0.235,1
+667,Giuliana Scarfoglio-Rossellini,NTNNTN28D21C719G,40,"Engineer, chemical",10,111,70,27,0,27.5,0.141,1
+668,Silvia Pignatti-Praga,CVSRCR16P45L596V,43,Mudlogger,6,98,58,33,190,34.0,0.43,0
+669,Evangelista Spinola,SPRPRG83L68I403J,45,"Geologist, engineering",9,154,78,30,100,30.9,0.164,0
+670,Elena Gabba,BRZRTR55A65F192P,49,Broadcast journalist,6,165,68,26,168,33.6,0.631,0
+671,Fortunata Salvemini,BTNCRN75A46E841B,21,Tax inspector,1,99,58,10,0,25.4,0.551,0
+672,Cecilia Molesini-Monicelli,BNNBLD53T49H323P,47,Jewellery designer,10,68,106,23,49,35.5,0.285,0
+673,Michela Vecoli,SRENZE59R68A124O,22,Immigration officer,3,123,100,35,240,57.3,0.88,0
+674,Rosaria Goldoni,RNCPRD30A65E951F,68,"Psychologist, forensic",8,91,82,0,0,35.6,0.587,0
+675,Lucrezia Opizzi,LXRSTN17D18I131V,31,Cartographer,6,195,70,0,0,30.9,0.328,1
+676,Donatella Trevisani,LPRSBN52P47F562W,53,"Engineer, maintenance (IT)",9,156,86,0,0,24.8,0.23,1
+677,Raffaella Celentano,TRNMSM22P65M182L,25,"Designer, fashion/clothing",0,93,60,0,0,35.3,0.263,0
+678,Priscilla Innocenti-Olivetti,RBBTTE32T22A067W,25,"Loss adjuster, chartered",3,121,52,0,0,36.0,0.127,1
+679,Bettina Ginese,CRSRNT23T18F760F,23,Tax adviser,2,101,58,17,265,24.2,0.614,0
+680,Donatella Morandi,FLGNGL53B67L278D,22,Merchant navy officer,2,56,56,28,45,24.2,0.332,0
+681,Luigina Sbarbaro,CTTVRN29M17D811X,26,Veterinary surgeon,0,162,76,36,0,49.6,0.364,1
+682,Dott. Alessandra Traversa,BSSVNL68H25L774Z,22,Fashion designer,0,95,64,39,105,44.6,0.366,0
+683,Valeria Spanevello,TRNVLR78E61H059L,27,Microbiologist,4,125,80,0,0,32.3,0.536,1
+684,Roberta Martinelli-Bignardi,PRDRMN65E15C441D,69,Sales promotion account executive,5,136,82,0,0,0.0,0.64,0
+685,Alessandra Gabbana,TRBMLN63M11I907N,25,Television/film/video producer,2,129,74,26,205,33.2,0.591,0
+686,Rita Gaggini-Renzi,MRGDNL30M64L834K,22,Energy engineer,3,130,64,0,0,23.1,0.314,0
+687,Elena Guidotti,FGGNTN19R48A033V,29,Patent examiner,1,107,50,19,0,28.3,0.181,0
+688,Daria Cabibbo,TMBLRA23A01G559V,23,Forensic psychologist,1,140,74,26,180,24.1,0.828,0
+689,Ninetta Finotto,FGGMTT38M56G303W,46,"Therapist, horticultural",1,144,82,46,180,46.1,0.335,1
+690,Aurora Flaiano-Togliatti,SNTRNL81L13A056K,34,Sports coach,8,107,80,0,0,24.6,0.856,0
+691,Sonia Gozzano,RSSLTZ41B24D137C,44,Advertising account executive,13,158,114,0,0,42.3,0.257,1
+692,Dott. Iolanda Malaparte,RCCCML45P20C108J,23,"Psychologist, forensic",2,121,70,32,95,39.1,0.886,0
+693,Ramona Gabbana-Boitani,FOXLCU54D49I878I,43,"Engineer, technical sales",7,129,68,49,125,38.5,0.439,1
+694,Marina Brunelleschi,CPPSVD89M46C516U,25,Dispensing optician,2,90,60,0,0,23.5,0.191,0
+695,Rosaria Nitto,NVIMRL13B12B684D,43,Commissioning editor,7,142,90,24,480,30.4,0.128,1
+696,Filippa Rinaldi,MSCLRN55R18E022B,31,Computer games developer,3,169,74,19,125,29.9,0.268,1
+697,Bettina Maccanelli,MRLDLS11T08D956M,22,Archaeologist,0,99,0,0,0,25.0,0.253,0
+698,Donatella Celentano,BRCDNL13D17D395M,28,Product designer,4,127,88,11,155,34.5,0.598,0
+699,Gloria Giannini-Carosone,GRGVNN50H13M077U,26,Holiday representative,4,118,70,0,0,44.5,0.904,0
+700,Donna Branciforte,FOXDNL60S50B188R,26,Theatre director,2,122,76,27,200,35.9,0.483,0
+701,Cassandra Ceravolo,TRVFRN22E15D862A,49,"Lighting technician, broadcasting/film/video",6,125,78,31,0,27.6,0.565,1
+702,Lisa Abbagnale,RDERND44S51G826C,52,Leisure centre manager,1,168,88,29,0,35.0,0.905,1
+703,Eleanora Bossi,VNTNNL14H53B875Y,41,General practice doctor,2,129,0,0,0,38.5,0.304,0
+704,Irma Montalti-Udinesi,LCCPRN13H44F968B,27,Communications engineer,4,110,76,20,100,28.4,0.118,0
+705,Flora Correr,CDRFRN44D05D688Q,28,Marine scientist,6,80,80,36,0,39.8,0.177,0
+706,Rosina Fo-Manacorda,TRBGCT78R46C158J,30,Immunologist,10,115,0,0,0,0.0,0.261,1
+707,Marissa Cusano,GNNMNC48C21H102O,22,"Therapist, sports",2,127,46,21,335,34.4,0.176,0
+708,Elvira Mezzetta,LBNGRM58A61B564E,45,Field trials officer,9,164,78,0,0,32.8,0.148,1
+709,Morena Gaiatto,GLLGLT34R26C303H,23,Production manager,2,93,64,32,160,38.0,0.674,1
+710,Luisa Valmarana,TMOGSV48E41G142R,24,Production manager,3,158,64,13,387,31.2,0.295,0
+711,Zaira Alfonsi,VNDSLT44S49D802S,40,Systems analyst,5,126,78,27,22,29.6,0.439,0
+712,Dott. Romina Biagiotti,GRFRND47C64M385F,38,"Psychologist, counselling",10,129,62,36,0,41.2,0.441,1
+713,Dolores Cardano-Murri,MLCCSN76H12F582I,21,Advice worker,0,134,58,20,291,26.4,0.352,0
+714,Etta Geraci-Pagnotto,MRNMNC36P01L016D,32,Solicitor,3,102,74,0,0,29.5,0.121,0
+715,Flora Pellico,FLNLFD58T42D897H,34,Recycling officer,7,187,50,33,392,33.9,0.826,1
+716,Annalisa Galeati,TLDLCN82E61F305S,31,Product/process development scientist,3,173,78,39,185,33.8,0.97,1
+717,Teresa Ferrabosco,SMMMLN62L17G111N,56,Retail manager,10,94,72,18,0,23.1,0.595,0
+718,Greca Columbo,CNDGNR46E44H918X,24,Science writer,1,108,60,46,178,35.5,0.415,0
+719,Luisa Cannizzaro,CRCLNE34D16M396J,52,"Accountant, chartered",5,97,76,27,0,35.6,0.378,1
+720,Gianna Giacometti,SCRDNI93A17E481N,34,Press photographer,4,83,86,19,0,29.3,0.317,0
+721,Nedda Calvo-Lerner,CRNBRR36D55D977Y,21,Medical sales representative,1,114,66,36,200,38.1,0.289,0
+722,Paulina Gottardi-Govoni,LTRLNR63H13D062H,42,Hotel manager,1,149,68,29,127,29.3,0.349,1
+723,Mercedes Cagnotto-Pizzo,BRNRNR88E51G631A,42,Actuary,5,117,86,30,105,39.1,0.251,0
+724,Cristina Germano-Bernardini,DNNGCT48E54H498Y,45,"Lighting technician, broadcasting/film/video",1,111,94,0,0,32.8,0.265,0
+725,Ida Gioberti,PRTRBT93B03C187Y,38,Accounting technician,4,112,78,40,0,39.4,0.236,0
+726,Evangelista Leonardi,BNGRFL61M65A074J,25,"Scientist, clinical (histocompatibility and immunogenetics)",1,116,78,29,180,36.1,0.496,0
+727,Virginia Geraci,CNNRSR58B15F044I,22,"Therapist, speech and language",0,141,84,26,0,32.4,0.433,0
+728,Lolita Turci-Pausini,PCLNNN35H54A415R,22,Economist,2,175,88,0,0,22.9,0.326,0
+729,Fiamma Donati-Comboni,LGRLZR18H50G202M,22,"Teacher, special educational needs",2,92,52,0,0,30.1,0.141,0
+730,Silvia Orengo,CRTSSN68D27I372Z,34,Clinical cytogeneticist,3,130,78,23,79,28.4,0.323,1
+731,Ludovica Benussi,BNSRTI67H04M352L,22,Camera operator,8,120,86,0,0,28.4,0.259,1
+732,Dott. Paola Foà,PRNFMM05L09M381D,24,Water engineer,2,174,88,37,120,44.5,0.646,1
+733,Dott. Mercedes Argento,GNSDNT61L54C652N,22,Theatre stage manager,2,106,56,27,165,29.0,0.426,0
+734,Eleanora Almagià,LMBLBT71A43F736M,53,"Engineer, electronics",2,105,75,0,0,23.3,0.56,0
+735,Sophia Bianchini,GRCSVN97H44H168M,28,"Designer, ceramics/pottery",4,95,60,32,0,35.4,0.284,0
+736,Claudia Muti,VNVMRN52H08D681N,21,Personal assistant,0,126,86,27,120,27.4,0.515,0
+737,Paulina Boccherini,FSLJCP28D46F712B,42,Financial risk analyst,8,65,72,23,0,32.0,0.6,0
+738,Stella Guidone,MNTDRA13R09L625Z,21,Catering manager,2,99,60,17,160,36.6,0.453,0
+739,Rosalia Ariasso,TMBCLR66P49C663Y,42,Nature conservation officer,1,102,74,0,0,39.5,0.293,1
+740,Emma Barcaccia,LNCMRN40R18G383Q,48,Hydrogeologist,11,120,80,37,150,42.3,0.785,1
+741,Lara Muti,BTTSTN02B08B131A,26,Records manager,3,102,44,20,94,30.8,0.4,0
+742,Gemma Sandi,PLLGNN77T10A970W,22,Pension scheme manager,1,109,58,18,116,28.5,0.219,0
+743,Marissa Cannizzaro,BTNNTL32C25B306Z,45,Animal technologist,9,140,94,0,0,32.7,0.734,1
+744,Adelasia Trentin,BLTLBC05D54C101P,39,Advertising art director,13,153,88,37,140,40.6,1.174,0
+745,Ida Catenazzi,DNSSIA62R03F033N,46,Dramatherapist,12,100,84,33,105,30.0,0.488,0
+746,Sonia Bignardi,MNNFBZ95M08D365R,27,"Engineer, site",1,147,94,41,0,49.3,0.358,1
+747,Berenice Traetta,SSMPRC79R22D756Y,32,"Teacher, music",1,81,74,41,57,46.3,1.096,0
+748,Marcella Malacarne-Parisi,TMBGLN64L05G387T,36,Meteorologist,3,187,70,22,200,36.4,0.408,1
+749,Germana Salvini,PZZSTN76T14I300D,50,Printmaker,6,162,62,0,0,24.3,0.178,1
+750,Gloria Florio,SLVNDD42A03A397E,22,Clinical psychologist,4,136,70,0,0,31.2,1.182,1
+751,Barbara Russo,MNTVTR01D28E558M,28,Consulting civil engineer,1,121,78,39,74,39.0,0.261,0
+752,Morena Gianvecchio-Gualtieri,PPECRL97S47B166B,25,Secondary school teacher,3,108,62,24,0,26.0,0.223,0
+753,Sophia Rubbia,RTSMLE86P47A332T,26,"Pharmacist, community",0,181,88,44,510,43.3,0.222,1
+754,Michela Mazzeo-Benussi,GRGRSO21S26L279N,45,"Surveyor, hydrographic",8,154,78,32,0,32.4,0.443,1
+755,Sig.ra Maria Murri,CRBGRC29A57I853K,37,Museum/gallery exhibitions officer,1,128,88,39,110,36.5,1.057,1
+756,Flavia Vivaldi,CHDMRA27D08F598T,39,Equities trader,7,137,90,41,0,32.0,0.391,0
+757,Tonia Bruno,BLLBLS09T44L180R,52,IT trainer,0,123,72,0,0,36.3,0.258,1
+758,Melania Ferrata,BLSPMN76H55L335F,26,Company secretary,1,106,76,0,0,37.5,0.197,0
+759,Annalisa Agostini,SCRNNN81P48A842M,66,"Scientist, physiological",6,190,92,0,0,35.5,0.278,1
+760,Michela Trebbi,RGNLSS74R45B101S,22,Science writer,2,88,58,26,16,28.4,0.766,0
+761,Ludovica Manolesso,SLLMRC82A53F970N,43,Media buyer,9,170,74,31,0,44.0,0.403,1
+762,Donatella Filogamo,NGNMLA31R09B980A,33,Printmaker,9,89,62,0,0,22.5,0.142,0
+763,Giulia Gulotta-Trupiano,SMTLSU56E19D740A,63,Herbalist,10,101,76,48,180,32.9,0.171,0
+764,Dott. Margherita Grifeo,STRFRC60B44D566P,27,Mental health nurse,2,122,70,27,0,36.8,0.34,0
+765,Giuseppina Riccardi-Caccianemico,DSULCI13H18B044Q,30,Museum/gallery exhibitions officer,5,121,72,23,112,26.2,0.245,0
+766,Sig.ra Stefani Toscani,GRTGLN96H08E473D,47,"Production assistant, television",1,126,60,0,0,30.1,0.349,1
+767,Sig.ra Paola Salieri,GNNPTZ65M54M404C,23,Mudlogger,1,93,70,31,0,30.4,0.315,0
